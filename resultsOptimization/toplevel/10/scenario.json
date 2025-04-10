@@ -1,0 +1,251 @@
+{
+    "name": "685d57aa21bf5218fbf97e267b91a88b",
+    "deterministic": true,
+    "objectives": "cost",
+    "crash_cost": Infinity,
+    "termination_cost_threshold": Infinity,
+    "walltime_limit": Infinity,
+    "cputime_limit": Infinity,
+    "trial_walltime_limit": null,
+    "trial_memory_limit": null,
+    "n_trials": 50,
+    "use_default_config": false,
+    "instances": null,
+    "instance_features": null,
+    "min_budget": null,
+    "max_budget": null,
+    "seed": 0,
+    "n_workers": 1,
+    "_meta": {
+        "facade": {
+            "name": "HyperparameterOptimizationFacade"
+        },
+        "runner": {
+            "name": "TargetFunctionRunner",
+            "code": "b'd\\x01}\\x02d\\x01}\\x03g\\x00}\\x04t\\x00d\\x00t\\x01\\x85\\x02\\x19\\x00D\\x00](}\\x05d\\x02|\\x05d\\x03t\\x02t\\x03\\x83\\x01\\x17\\x00d\\x04d\\x05f\\x05}\\x06|\\x00D\\x00]\\x13}\\x07d\\x06|\\x07\\x17\\x00d\\x07\\x17\\x00t\\x02|\\x00|\\x07\\x19\\x00\\x83\\x01\\x17\\x00}\\x08|\\x06|\\x08f\\x01\\x17\\x00}\\x06q\\x1b|\\x04\\xa0\\x04|\\x06\\xa1\\x01\\x01\\x00q\\x0ct\\x05d\\x08t\\x02t\\x06|\\x04\\x83\\x01\\x83\\x01\\x17\\x00\\x83\\x01\\x01\\x00t\\x05d\\t\\xa0\\x07t\\x08t\\x01\\xa1\\x02\\x83\\x01\\x01\\x00t\\tj\\nt\\x08d\\n\\x8d\\x01\\x8f@\\x89\\x00\\x87\\x00f\\x01d\\x0bd\\x0c\\x84\\x08|\\x04D\\x00\\x83\\x01}\\tt\\x0b|\\t\\x83\\x01D\\x00]*}\\nz\\x12|\\x02|\\n\\xa0\\x0c\\xa1\\x007\\x00}\\x02|\\x03d\\r7\\x00}\\x03t\\x05d\\x0ed\\x0fd\\x10\\x8d\\x02\\x01\\x00W\\x00q[\\x04\\x00t\\ry\\x85\\x01\\x00}\\x0b\\x01\\x00z\\nt\\x05|\\x0b\\x83\\x01\\x01\\x00W\\x00Y\\x00d\\x00}\\x0b~\\x0bq[d\\x00}\\x0b~\\x0bw\\x01w\\x00W\\x00d\\x00\\x04\\x00\\x04\\x00\\x83\\x03\\x01\\x00n\\x081\\x00s\\x90w\\x01\\x01\\x00\\x01\\x00\\x01\\x00Y\\x00\\x01\\x00t\\x05|\\x03\\x83\\x01\\x01\\x00|\\x02t\\x01|\\x03\\x18\\x00t\\x03\\x14\\x007\\x00}\\x02|\\x02S\\x00'"
+        },
+        "model": {
+            "name": "RandomForest",
+            "types": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "bounds": [
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ],
+                [
+                    0,
+                    1.0
+                ]
+            ],
+            "pca_components": 7,
+            "n_trees": 10,
+            "n_points_per_tree": -1,
+            "ratio_features": 1.0,
+            "min_samples_split": 2,
+            "min_samples_leaf": 1,
+            "max_depth": 1048576,
+            "eps_purity": 1e-08,
+            "max_nodes": 1048576,
+            "bootstrapping": true
+        },
+        "acquisition_maximizer": {
+            "name": "LocalAndSortedRandomSearch",
+            "acquisition_function": {
+                "name": "EI",
+                "xi": 0.0,
+                "log": true
+            },
+            "challengers": 10000,
+            "seed": 0,
+            "random_search": {
+                "name": "RandomSearch",
+                "acquisition_function": {
+                    "name": "EI",
+                    "xi": 0.0,
+                    "log": true
+                },
+                "challengers": 5000,
+                "seed": 0
+            },
+            "local_search": {
+                "name": "LocalSearch",
+                "acquisition_function": {
+                    "name": "EI",
+                    "xi": 0.0,
+                    "log": true
+                },
+                "challengers": 5000,
+                "seed": 0,
+                "max_steps": null,
+                "n_steps_plateau_walk": 10,
+                "vectorization_min_obtain": 2,
+                "vectorization_max_obtain": 64
+            }
+        },
+        "acquisition_function": {
+            "name": "EI",
+            "xi": 0.0,
+            "log": true
+        },
+        "intensifier": {
+            "name": "Intensifier",
+            "max_incumbents": 10,
+            "seed": 0
+        },
+        "initial_design": {
+            "name": "SobolInitialDesign",
+            "n_configs": 12,
+            "n_configs_per_hyperparameter": 10,
+            "additional_configs": [],
+            "seed": 0
+        },
+        "random_design": {
+            "name": "ProbabilityRandomDesign",
+            "seed": 0,
+            "probability": 0.2
+        },
+        "runhistory_encoder": {
+            "name": "RunHistoryLogScaledEncoder",
+            "considered_states": [
+                1,
+                2,
+                4
+            ],
+            "lower_budget_states": [],
+            "scale_percentage": 5,
+            "seed": 0
+        },
+        "multi_objective_algorithm": null,
+        "config_selector": {
+            "name": "ConfigSelector",
+            "retrain_after": 8,
+            "retries": 16,
+            "min_trials": 1
+        },
+        "version": "2.2.0"
+    },
+    "output_directory": "/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/outputs/toplevel/liskov/10/685d57aa21bf5218fbf97e267b91a88b/0"
+}

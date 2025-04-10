@@ -1,0 +1,14 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/008e7716c69009090ff6bd0048dc55f8-SAT_dat.k10.cnf.xz', '/nfs/share/instances/gbd/cnf/01dd5feb463fa80f73809718f6ff735b-10pipe_q0_k.cnf.xz', '/nfs/share/instances/gbd/cnf/1427381a809c64c721838894ece6756d-shuffling-2-s25242449-of-bench-sat04-727.used-as.sat04-753.cnf.xz', '/nfs/share/instances/gbd/cnf/2ef023ae6c46e4415734f9349a36d678-velev-pipe-o-uns-1.0-7.cnf.xz', '/nfs/share/instances/gbd/cnf/34fa0922e66aee3b6f6ffe1760f459d4-f9idw.cnf.xz', '/nfs/share/instances/gbd/cnf/727cd7c528ac106f134cc882c9202108-15pipe_q0_k.cnf.xz', '/nfs/share/instances/gbd/cnf/907e7dc703e16ad2c7e56a33fe3b3e5f-manol-pipe-g10bid_i.cnf.xz', '/nfs/share/instances/gbd/cnf/a552a058e6376a36b1f1b2724f228364-IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf.xz', '/nfs/share/instances/gbd/cnf/d1f4348ad66cae01386777daae51c024-eqspctbk14spwtcl14.cnf.xz', '/nfs/share/instances/gbd/cnf/dcf5b8224d1e0748871c83ee10067255-2dlx_ca_bp_f_liveness.cnf.xz']
+['/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/008e7716c69009090ff6bd0048dc55f8-SAT_dat.k10.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/01dd5feb463fa80f73809718f6ff735b-10pipe_q0_k.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1427381a809c64c721838894ece6756d-shuffling-2-s25242449-of-bench-sat04-727.used-as.sat04-753.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2ef023ae6c46e4415734f9349a36d678-velev-pipe-o-uns-1.0-7.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/34fa0922e66aee3b6f6ffe1760f459d4-f9idw.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/727cd7c528ac106f134cc882c9202108-15pipe_q0_k.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/907e7dc703e16ad2c7e56a33fe3b3e5f-manol-pipe-g10bid_i.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a552a058e6376a36b1f1b2724f228364-IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1f4348ad66cae01386777daae51c024-eqspctbk14spwtcl14.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dcf5b8224d1e0748871c83ee10067255-2dlx_ca_bp_f_liveness.cnf']
+27: Solved
+27: Solved
+27: Solved
+27: Solved
+27: Solved
+27: Timeout
+27: Solved
+27: Solved
+27: Timeout
+27: Timeout
+Finished after 34780.92384648323 seconds

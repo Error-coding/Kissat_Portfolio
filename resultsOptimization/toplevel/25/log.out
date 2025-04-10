@@ -1,0 +1,2732 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/29d86d9a3b85c349e10ad68d7a713da2-1-ZC-512-K-63.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/6a674acad2aeac729ecb39ad9e4a2298-1-ZC-1024-K-116.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/dd5fc8da5454a990a0e7999884158c64-1-ET-256-K-70.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf.xz']
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 260 to 12 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 12 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 823.4912383556366 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 1120.4176387786865 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 1671.7601478099823 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 1708.585527896881 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+[INFO][abstract_intensifier.py:516] Added config 23ffcf as new incumbent because there are no incumbents yet.
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 250.66984367370605 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 336.52920842170715 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 592.556752204895 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 690.7385120391846 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config e6b292 and rejected config 23ffcf as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 1563.533789396286 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 945.5396404266357 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 1387.79238986969 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 1540.8360197544098 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 124.51379728317261 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 200.00286650657654 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 803.5501224994659 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 1002.4046349525452 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1422.1480515003204 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config 6bace3 and rejected config e6b292 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 359.8978705406189 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 27.106011867523193 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 90.99782419204712 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 153.48233771324158 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 181.44286036491394 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1686.1674828529358 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config b45d70 and rejected config 6bace3 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 1471.9203889369965 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 1626.2296087741852 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 1758.1516785621643 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 132.28124403953552 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 201.90533709526062 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 470.4248425960541 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 840.1234061717987 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1571.3974394798279 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 114.64873719215393 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 190.65416479110718 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 384.94803261756897 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 690.5285816192627 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1185.4717407226562 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 206.51195549964905 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 293.71316742897034 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 677.8271543979645 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 1045.6611728668213 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1367.4976620674133 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 173.76119947433472 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 670.1120765209198 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 1062.0650961399078 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 808.0213928222656 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 890.815908908844 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 30.996451377868652 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 83.61864495277405 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 194.18955421447754 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 198.4574489593506 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 178.7069411277771 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 427.8026704788208 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 1215.6914892196655 seconds
+Result added to total
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 1099.2522246837616 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 23.74017572402954 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 80.92448282241821 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 214.45429754257202 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 303.03689527511597 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 23.749688148498535 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 82.9793267250061 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 246.53835344314575 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 282.6233491897583 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 72.04868412017822 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 151.28495073318481 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 324.86889600753784 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 473.4733555316925 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 921.2119007110596 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config 6f99c1 and rejected config b45d70 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 183.5076084136963 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 191.12397408485413 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 239.51200556755066 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 413.1554560661316 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 123.21396970748901 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 172.94360423088074 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 682.1449284553528 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1274.2968273162842 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 1597.9300014972687 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 183.71353101730347 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 363.5674948692322 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 667.122757434845 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 888.7213451862335 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 169.98488426208496 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 217.46386575698853 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 237.18769812583923 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 249.6158185005188 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 72.9589114189148 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 127.02350068092346 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 177.14343881607056 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 182.7753038406372 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1678.946070432663 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 72.39051175117493 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 153.09857869148254 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 176.15252566337585 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 270.14216709136963 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 77.41985011100769 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 149.557030916214 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 267.63991498947144 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 542.561018705368 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 27.12511157989502 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 93.26076698303223 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 102.10325288772583 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 158.523854970932 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 24.002214431762695 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 83.99072527885437 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 123.00591778755188 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 151.48501443862915 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 78.27036023139954 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 184.30990433692932 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 184.40696334838867 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 283.75954031944275 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 55.76689147949219 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 92.02275037765503 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 289.6741752624512 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 330.05512404441833 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1025.1617381572723 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config 08a083 and rejected config 6f99c1 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 43.002567291259766 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 101.84618830680847 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 307.34587025642395 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 413.21337127685547 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1056.206820487976 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 662.8804936408997 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 969.6729147434235 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 49.035154819488525 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 86.92857933044434 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 378.62974095344543 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 393.83498430252075 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 827.6272456645966 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+[INFO][abstract_intensifier.py:595] Added config 94218f and rejected config 08a083 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 48.10952830314636 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 87.3520290851593 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 361.9872512817383 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 407.14159202575684 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 848.1283445358276 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+Number args:12
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6c52aca5b5fd284bf1940b84df90a367-1-TC-256-K-71.sanitized.cnfwas solved after 57.63497710227966 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a8285a53f30b35016b0c85ea17ba155-1-TC-256-K-68.sanitized.cnfwas solved after 93.12123394012451 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b032f8a8976a302ad125eb50a3e8445-1-ZC-512-K-60.sanitized.cnfwas solved after 286.4022717475891 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff9e9b01d50d01ecb6740472d7dd36cd-1-ZC-512-K-61.sanitized.cnfwas solved after 319.7957434654236 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+25: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46d75199933980fdb856f13e5b1817dd-1-TC-256-K-64.sanitized.cnfwas solved after 1030.954742193222 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cccee4b0d4c70a5d5422663e2d8887da-1-ET-512-K-96.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd7164f2592c9675618c5c99af9b70f3-1-ZC-512-K-64.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6ed647f85f20be4aedd1e9ce31cbdcd-1-ET-256-K-55.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a917b02a7c31e74c8ccf8b8f001abf37-1-ZC-512-K-67.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc0e1b5fedbd8351907f1316b58e68f-1-ZC-512-K-65.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e85e793a66a2c9d390f40acf29a5346b-1-ET-512-K-110.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+25: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa6e6f67719ca43aef922f2ebabc409a-1-ZC-1024-K-117.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+12
+[INFO][smbo.py:320] Finished 50 trials.
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 1,
+  'congruence': 1,
+  'eliminate': 1,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 1,
+  'lucky': 0,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'randec': 1,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 1,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 0,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 1,
+})

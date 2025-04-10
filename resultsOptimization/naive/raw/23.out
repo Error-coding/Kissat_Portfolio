@@ -1,0 +1,1816 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+Config --backbone=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 322.33249402046204 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 342.9317033290863 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 364.61519169807434 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 386.59676027297974 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 398.9998276233673 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 416.84090185165405 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 503.5240590572357 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 527.3542671203613 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 552.6407825946808 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 666.6080851554871 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 702.2574074268341 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 830.2106359004974 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--backbone=0 finished with score 13014.91211605072
+Config --backbone=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 279.71007347106934 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 298.01859402656555 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 303.42775082588196 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 333.92069697380066 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 350.607084274292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 358.17816615104675 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 375.7207827568054 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 410.0249662399292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 419.2716341018677 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 424.8374147415161 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 512.3247654438019 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 611.4585483074188 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 900.8736746311188 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--backbone=2 finished with score 10578.374151945114
+Config --bump=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf has reached timeout, punishment 2000 seconds
+23: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--bump=0 finished with score 31000
+Config --chrono=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 273.8993878364563 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 279.4274642467499 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 297.18159341812134 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 311.69790625572205 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 322.0308566093445 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 376.966748714447 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 406.5370252132416 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 408.10119009017944 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 485.23670172691345 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 527.6619896888733 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 602.687502861023 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 711.7845814228058 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--chrono=0 finished with score 12003.212948083878
+Config --congruence=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 526.7762007713318 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 562.7610712051392 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 692.4799115657806 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--congruence=0 finished with score 26782.01718354225
+Config --eliminate=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 279.495069026947 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 298.0183539390564 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 303.44103479385376 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 333.95089983940125 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 350.8086140155792 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 358.13467741012573 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 376.10655069351196 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 409.87788701057434 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 419.08524918556213 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 424.4368119239807 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 515.0230774879456 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 555.1104271411896 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 705.7080385684967 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--eliminate=0 finished with score 10329.196691036224
+Config --extract=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 280.06293773651123 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 298.60231757164 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 303.56487798690796 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 334.1290559768677 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 350.7370398044586 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 358.27654123306274 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 376.3545358181 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 410.2581865787506 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 419.1282801628113 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 424.74907636642456 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 512.4460396766663 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 558.612779378891 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 659.8663289546967 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--extract=0 finished with score 10286.787997245789
+Config --factor=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 198.99589776992798 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 221.9091444015503 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 252.31296801567078 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 257.168639421463 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 301.9309959411621 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 304.8233833312988 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 329.4563603401184 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 349.29847502708435 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 376.4774124622345 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 399.64307928085327 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 429.92339277267456 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 561.2231814861298 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 659.8709125518799 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--factor=0 finished with score 9643.033842802048
+Config --fastel=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 201.59479928016663 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 237.87798714637756 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 320.0740773677826 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 349.9821755886078 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 404.7433388233185 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 405.3398675918579 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 417.27273297309875 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 529.8927047252655 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 550.3395874500275 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 599.7839691638947 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 726.8185927867889 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 958.2626168727875 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--fastel=0 finished with score 12701.982449769974
+Config --forward=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 279.5277030467987 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 298.1259834766388 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 303.69834542274475 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 334.67729663848877 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 352.020938873291 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 358.52548146247864 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 376.50474667549133 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 409.76208996772766 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 419.47195267677307 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 424.4539477825165 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 513.2057456970215 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 517.1720368862152 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 563.0300951004028 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--forward=0 finished with score 10150.176363706589
+Config --lucky=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 277.26051354408264 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 288.6419198513031 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 299.3688163757324 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 300.69019746780396 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 347.28283405303955 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 355.2810900211334 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 395.1817202568054 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 440.39173197746277 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 464.5541179180145 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 513.1574094295502 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 755.764003276825 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--lucky=0 finished with score 13437.574354171753
+Config --phase=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 258.359436750412 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 284.6680066585541 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 421.057856798172 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 560.1943292617798 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 562.4866313934326 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 713.3532540798187 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 764.2494068145752 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 818.6140608787537 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 953.7367241382599 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 962.329781293869 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--phase=0 finished with score 17299.049488067627
+Config --phasesaving=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 283.37218832969666 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 296.64692902565 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 310.649888753891 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 316.064448595047 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 318.0809111595154 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 357.94425654411316 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 362.5340087413788 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 403.15652418136597 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 450.8573956489563 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 554.2464892864227 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 573.2814581394196 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 650.869725227356 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--phasesaving=0 finished with score 11877.704223632812
+Config --preprocess=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 293.7791509628296 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 360.38555455207825 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 459.26206517219543 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 509.4954159259796 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 528.0824241638184 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 576.6733181476593 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 597.1796579360962 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 668.7665636539459 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 699.4324131011963 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 713.7108998298645 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 818.4434416294098 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--preprocess=0 finished with score 15225.210905075073
+Config --probe=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 839.1961741447449 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--probe=0 finished with score 29839.196174144745
+Config --randec=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 248.8314356803894 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 308.817355632782 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 313.6001019477844 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 325.24196457862854 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 340.5120804309845 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 379.89683270454407 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 388.5789442062378 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 437.26968216896057 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 481.82485938072205 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 492.46452045440674 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 530.6140530109406 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 718.5138432979584 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--randec=0 finished with score 11966.165673494339
+Config --reluctant=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 270.6230881214142 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 279.8047742843628 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 294.84861063957214 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 302.69762110710144 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 349.36767172813416 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 364.76639890670776 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 368.9332582950592 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 437.48749804496765 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 504.0421278476715 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 677.3323860168457 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 713.1643240451813 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 948.5704216957092 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--reluctant=0 finished with score 12511.638180732727
+Config --reorder=1
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 279.94072914123535 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 297.7789030075073 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 303.320925951004 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 334.2570276260376 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 350.7883105278015 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 358.2336664199829 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 410.25049209594727 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 417.6706073284149 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 424.8985695838928 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 426.9816415309906 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 438.7762050628662 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 512.9635145664215 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 609.8750786781311 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--reorder=1 finished with score 10165.735671520233
+Config --reorder=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 297.42043352127075 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 304.0106348991394 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 321.968003988266 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 335.12154960632324 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 352.66373324394226 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 361.39571738243103 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 418.17488956451416 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 426.04314279556274 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 428.5313084125519 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 450.9362280368805 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 509.1211211681366 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 544.0995121002197 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 599.2456476688385 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--reorder=0 finished with score 10348.731922388077
+Config --rephase=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 214.13787746429443 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 313.0074555873871 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 375.3977384567261 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 472.33232402801514 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 495.8806254863739 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 501.6577024459839 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 563.7403059005737 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 574.8324677944183 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 627.7349624633789 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 634.3843464851379 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 798.4052486419678 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 946.2183554172516 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--rephase=0 finished with score 13517.729410171509
+Config --restart=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 232.2373390197754 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 325.16067028045654 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 376.14921283721924 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 386.31291127204895 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 400.96760630607605 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 445.50288009643555 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 641.3265190124512 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 774.5245590209961 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 867.7926964759827 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--restart=0 finished with score 17449.97439432144
+Config --stable=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 255.55089378356934 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 289.68925070762634 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 404.8437798023224 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 471.6940188407898 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 537.4677078723907 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 653.4410464763641 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 792.3305077552795 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnfwas solved after 938.3259241580963 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 957.8424661159515 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--stable=0 finished with score 18301.18559551239
+Config --stable=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 232.26087737083435 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 291.0426471233368 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 354.08900451660156 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 526.0256109237671 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 562.037829875946 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 734.0620985031128 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 736.5197148323059 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 805.5965571403503 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 838.7406885623932 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 917.531512260437 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 923.6374650001526 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--stable=2 finished with score 15921.544006109238
+Config --substitute=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 589.1885051727295 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 674.6962416172028 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 803.7340660095215 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 804.6385533809662 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 861.835729598999 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--substitute=0 finished with score 24734.09309577942
+Config --sweep=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 251.30344915390015 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 299.7271990776062 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 303.9263653755188 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 348.37246227264404 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 371.20137882232666 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 442.31236267089844 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 443.80204010009766 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 467.58100295066833 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 478.3372640609741 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 509.96891927719116 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 570.8843877315521 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 605.4163808822632 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--sweep=0 finished with score 12092.83321237564
+Config --target=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 262.8163392543793 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 310.96699833869934 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 319.4630138874054 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 388.6028747558594 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 405.43418049812317 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 414.39105558395386 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 452.8908932209015 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 532.4678921699524 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 617.5042338371277 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 625.1842937469482 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 631.6398704051971 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--target=0 finished with score 13961.361645698547
+Config --target=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 214.3995385169983 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 270.7652006149292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 272.1470010280609 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 383.40860986709595 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 408.6088354587555 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 426.3179531097412 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 641.5683400630951 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 705.7771623134613 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 735.8014378547668 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 805.310941696167 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--target=2 finished with score 15864.105020523071
+Config --transitive=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 243.5919315814972 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 266.72360920906067 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 321.6467432975769 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 351.04017210006714 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 443.06372117996216 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 454.92633152008057 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 457.3389322757721 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 512.5686774253845 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 521.4799091815948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 533.2209856510162 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 595.6613528728485 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 826.7443950176239 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--transitive=0 finished with score 12528.006761312485
+Config --vivify=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 229.0150146484375 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 237.83340573310852 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 287.12295031547546 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnfwas solved after 340.0242693424225 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 344.3324513435364 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 405.5336117744446 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 450.2103705406189 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 488.85948491096497 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 589.3946034908295 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 615.1768963336945 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 707.5932478904724 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnfwas solved after 775.385737657547 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 887.7977116107941 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--vivify=0 finished with score 11358.279755592346
+Config --warmup=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnfwas solved after 283.363076210022 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnfwas solved after 317.8134608268738 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnfwas solved after 318.2493760585785 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnfwas solved after 342.2282636165619 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnfwas solved after 404.46549129486084 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnfwas solved after 432.1599087715149 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnfwas solved after 433.6793773174286 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnfwas solved after 456.91603207588196 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnfwas solved after 528.0729053020477 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnfwas solved after 641.7397191524506 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+23: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnfwas solved after 754.8241536617279 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+23: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+23:--warmup=0 finished with score 13913.511764287949

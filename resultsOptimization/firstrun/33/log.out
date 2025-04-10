@@ -1,0 +1,133 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Solved
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+[INFO][abstract_intensifier.py:595] Added config 6f5ce4 and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+['../instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf', '../instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf', '../instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf', '../instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf', '../instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf', '../instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf', '../instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf', '../instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf']
+33: Timeout
+33: Solved
+33: Timeout
+33: Timeout
+33: Solved
+33: Timeout
+33: Solved
+33: Timeout
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'congruenceands': 'false',
+  'congruencexors': 'true',
+  'phase': 'false',
+  'probeint': 966,
+  'restartint': 226,
+  'sweepclauses': 1647130177,
+  'target': 2,
+  'vivifyirr': 4,
+  'congruencexorarity': 15,
+})

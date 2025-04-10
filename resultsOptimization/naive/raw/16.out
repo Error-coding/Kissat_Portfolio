@@ -1,0 +1,2050 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf.xz', '/nfs/share/instances/gbd/cnf/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf.xz', '/nfs/share/instances/gbd/cnf/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf.xz', '/nfs/share/instances/gbd/cnf/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf.xz', '/nfs/share/instances/gbd/cnf/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf.xz', '/nfs/share/instances/gbd/cnf/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf.xz', '/nfs/share/instances/gbd/cnf/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf.xz', '/nfs/share/instances/gbd/cnf/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf.xz', '/nfs/share/instances/gbd/cnf/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf.xz', '/nfs/share/instances/gbd/cnf/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf.xz', '/nfs/share/instances/gbd/cnf/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf.xz', '/nfs/share/instances/gbd/cnf/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf.xz', '/nfs/share/instances/gbd/cnf/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf.xz', '/nfs/share/instances/gbd/cnf/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf.xz', '/nfs/share/instances/gbd/cnf/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf.xz', '/nfs/share/instances/gbd/cnf/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf.xz', '/nfs/share/instances/gbd/cnf/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf.xz', '/nfs/share/instances/gbd/cnf/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf.xz', '/nfs/share/instances/gbd/cnf/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf.xz', '/nfs/share/instances/gbd/cnf/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf.xz']
+Config --backbone=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 222.43401765823364 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 250.16691493988037 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 272.124968290329 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 298.4811899662018 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 323.9796404838562 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 345.52137994766235 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 376.9310929775238 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 399.4178297519684 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 428.9316871166229 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 438.77947473526 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 492.33787202835083 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 554.1538133621216 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 581.3379230499268 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 628.2302014827728 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 650.3780407905579 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 690.5368893146515 seconds
+Result added to total
+16
+16:--backbone=0 finished with score 6953.74293589592
+Config --backbone=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.67305445671082 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.82924509048462 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.36938953399658 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.5746715068817 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.8294186592102 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.0976622104645 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 303.98300862312317 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.9288091659546 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.5161364078522 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.5600185394287 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.3021333217621 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 451.30027747154236 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 489.8211421966553 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 537.1154580116272 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 561.8845961093903 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.7914130687714 seconds
+Result added to total
+16
+16:--backbone=2 finished with score 5705.576434373856
+Config --bump=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 270.01865816116333 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 277.30275893211365 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 321.3924984931946 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 325.02371525764465 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 348.48632049560547 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 365.4277482032776 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 584.2006256580353 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 605.5003461837769 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 724.6518225669861 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 781.8819415569305 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 896.1350800991058 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 916.980988740921 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 980.9092123508453 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+16:--bump=0 finished with score 13397.9117166996
+Config --chrono=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 177.984605550766 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 197.11205983161926 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 214.7725019454956 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 234.5805938243866 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 257.92109751701355 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 275.13983058929443 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 307.19611048698425 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.7707607746124 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 333.9741370677948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.9854083061218 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 409.2237641811371 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 459.6757299900055 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 503.10005021095276 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 534.2018504142761 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 554.6063787937164 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 589.451242685318 seconds
+Result added to total
+16
+16:--chrono=0 finished with score 5722.696122169495
+Config --congruence=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 207.21448016166687 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 240.12507581710815 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 270.62161135673523 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 299.4134669303894 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 324.3387393951416 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 372.87229347229004 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 400.9557509422302 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 516.6428864002228 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 649.3341612815857 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 675.48002409935 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 694.4090709686279 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 725.1407606601715 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 784.9913418292999 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 812.2346940040588 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 887.2258937358856 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+16:--congruence=0 finished with score 9861.000251054764
+Config --eliminate=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.65912199020386 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.7914423942566 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.0083351135254 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.4070954322815 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 253.76300573349 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.99279403686523 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 304.12756848335266 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 321.04826045036316 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.1325087547302 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.8299903869629 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.5512418746948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 451.35051107406616 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 490.81720900535583 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 536.9618837833405 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.1204767227173 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.6362781524658 seconds
+Result added to total
+16
+16:--eliminate=0 finished with score 5706.197723388672
+Config --extract=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.52175569534302 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.51060438156128 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 210.99908876419067 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.87222695350647 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.00556302070618 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.33958745002747 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 304.29723930358887 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.9492390155792 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.41998982429504 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.4313540458679 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.81345105171204 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 450.76077222824097 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 490.41021966934204 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 537.1640710830688 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.9374167919159 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 598.1991543769836 seconds
+Result added to total
+16
+16:--extract=0 finished with score 5706.63173365593
+Config --factor=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 159.2280592918396 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 178.30338525772095 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 197.82020545005798 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 219.033700466156 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 240.95073294639587 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 261.5722644329071 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 291.39825773239136 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 317.31056213378906 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 369.2012417316437 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 373.87027764320374 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 411.3811764717102 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 470.1973774433136 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 505.3920588493347 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 544.8524618148804 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 570.4673926830292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 615.3333284854889 seconds
+Result added to total
+16
+16:--factor=0 finished with score 5726.312482833862
+Config --fastel=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 200.86076521873474 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 231.2787585258484 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 267.2700605392456 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 268.2054626941681 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 319.62726497650146 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 352.8822293281555 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 434.3357985019684 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 447.24223351478577 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 452.1265711784363 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 459.7381613254547 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 547.5164952278137 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 575.0379691123962 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 599.2376549243927 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 653.2133996486664 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 745.7206733226776 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 940.7302858829498 seconds
+Result added to total
+16
+16:--fastel=0 finished with score 7495.023783922195
+Config --forward=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.680499792099 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.6271412372589 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 210.90210723876953 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.64234495162964 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.53568816184998 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.26867151260376 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 304.4917211532593 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 321.24555826187134 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.5745017528534 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.64294934272766 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.2328395843506 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 451.11995339393616 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 490.41963267326355 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 536.3834810256958 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 563.1858768463135 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.6066629886627 seconds
+Result added to total
+16
+16:--forward=0 finished with score 5706.559629917145
+Config --lucky=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 219.30200791358948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 240.228924036026 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 266.49674463272095 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 300.21499729156494 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 325.352014541626 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 344.17850518226624 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 393.8589744567871 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 431.73073744773865 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 436.3360755443573 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 530.9266545772552 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 604.6441223621368 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 614.964625120163 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 660.8966703414917 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 702.2357249259949 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 792.6622879505157 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 794.295994758606 seconds
+Result added to total
+16
+16:--lucky=0 finished with score 7658.32506108284
+Config --phase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 177.38519835472107 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 203.34439516067505 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 209.89151573181152 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 234.69522190093994 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.15277791023254 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 272.8578305244446 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 298.82440161705017 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 329.3512954711914 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 334.5973653793335 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 369.9727771282196 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 440.2743082046509 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 458.54768991470337 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 511.9200026988983 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 518.3197951316833 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 564.3887469768524 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 611.1138226985931 seconds
+Result added to total
+16
+16:--phase=0 finished with score 5789.637144804001
+Config --phasesaving=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.40593147277832 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 195.6394305229187 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 213.2045726776123 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.92679381370544 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 255.39787077903748 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.51138281822205 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 305.0367193222046 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 327.5819528102875 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 336.30129408836365 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 345.34855031967163 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 406.0138862133026 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 458.9667999744415 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 500.565025806427 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 527.7299513816833 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 559.4044823646545 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 600.9177088737488 seconds
+Result added to total
+16
+16:--phasesaving=0 finished with score 5713.952353239059
+Config --preprocess=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 401.3335916996002 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 460.6928153038025 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 485.82040143013 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 545.8732442855835 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 555.094450712204 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 804.7414042949677 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 894.7823014259338 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 904.0003094673157 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 948.3538451194763 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+16:--preprocess=0 finished with score 20000.692363739014
+Config --probe=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 332.09969115257263 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 493.2875006198883 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 509.731413602829 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 659.7790400981903 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 662.6768805980682 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+16:--probe=0 finished with score 24657.57452607155
+Config --randec=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 177.16966366767883 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 195.35221147537231 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 209.07049345970154 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.1730020046234 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 255.15403199195862 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 274.4956533908844 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 298.71648478507996 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 319.919588804245 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.5726754665375 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 350.98781728744507 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 407.06843185424805 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 460.60540795326233 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 484.5570640563965 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 526.1541044712067 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 557.2009606361389 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 598.9397740364075 seconds
+Result added to total
+16
+16:--randec=0 finished with score 5689.1373653411865
+Config --reluctant=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.66065502166748 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.45374393463135 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.169757604599 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.48760056495667 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.24142742156982 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.1591761112213 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 301.48148679733276 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 321.166921377182 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.72785329818726 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.87308263778687 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 404.804354429245 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 451.030642747879 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 490.4393286705017 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 532.1401124000549 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.2067034244537 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 596.6676981449127 seconds
+Result added to total
+16
+16:--reluctant=0 finished with score 5697.710544586182
+Config --reorder=1
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.2023730278015 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.59193015098572 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 212.66149425506592 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.45262026786804 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.26356840133667 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.1112549304962 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 304.1775231361389 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.9730055332184 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.0633409023285 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 351.83063793182373 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.6729381084442 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 452.2005066871643 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 489.83965492248535 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 538.0119683742523 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.3647429943085 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.2416491508484 seconds
+Result added to total
+16
+16:--reorder=1 finished with score 5706.659208774567
+Config --reorder=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.57795453071594 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.5140790939331 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.20355367660522 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 232.57380270957947 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.0348470211029 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.4452006816864 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 303.72094988822937 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 321.3132300376892 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 340.59966468811035 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 352.4865040779114 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.5333535671234 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 451.3870975971222 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 489.3635091781616 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 537.6360368728638 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.5072724819183 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.2556941509247 seconds
+Result added to total
+16
+16:--reorder=0 finished with score 5705.152750253677
+Config --rephase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 176.38327193260193 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 194.15727281570435 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 212.1572561264038 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 230.20630598068237 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.2588005065918 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 272.07448387145996 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 299.6042227745056 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 319.4751501083374 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 338.199120759964 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 355.66008472442627 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 401.3896906375885 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 454.8084354400635 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 503.4030795097351 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 528.9109287261963 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 567.8728332519531 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 591.7290859222412 seconds
+Result added to total
+16
+16:--rephase=0 finished with score 5700.290023088455
+Config --restart=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 176.19865703582764 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 195.69187307357788 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 214.5973927974701 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 237.41922783851624 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 255.05854392051697 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 275.1977734565735 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 307.6815094947815 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 319.2592692375183 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 344.64653420448303 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 357.85452580451965 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 408.61895751953125 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 460.3781068325043 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 497.267790555954 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 524.6703555583954 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 551.4593455791473 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 590.3539583683014 seconds
+Result added to total
+16
+16:--restart=0 finished with score 5716.353821277618
+Config --stable=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 178.46775317192078 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 195.92087054252625 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 213.58087611198425 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.33204102516174 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 253.72283792495728 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 271.6831693649292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 298.5883274078369 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 328.0554983615875 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 339.63245034217834 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 348.39723539352417 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 408.3230652809143 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 462.08721804618835 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 492.17501521110535 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 528.5460424423218 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 551.3051445484161 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 602.8015604019165 seconds
+Result added to total
+16
+16:--stable=0 finished with score 5706.619105577469
+Config --stable=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 179.80137825012207 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 197.54011392593384 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 216.87265062332153 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 236.1392092704773 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 257.1764061450958 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 277.4409942626953 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 309.26195216178894 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 331.30552339553833 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 338.6331932544708 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 365.6185202598572 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 417.13571786880493 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 469.25860834121704 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 509.8200352191925 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 532.5251047611237 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 573.1184303760529 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 605.9756832122803 seconds
+Result added to total
+16
+16:--stable=2 finished with score 5817.623521327972
+Config --substitute=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 214.00767970085144 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 233.52961421012878 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 255.93680906295776 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 273.81479001045227 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 304.84520196914673 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 348.6607701778412 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 416.58118748664856 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 435.46310567855835 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 477.68512058258057 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 504.0447325706482 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 546.6372258663177 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 619.2873029708862 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 652.7558414936066 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 656.6112821102142 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 708.9955952167511 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 752.5552499294281 seconds
+Result added to total
+16
+16:--substitute=0 finished with score 7401.411509037018
+Config --sweep=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 172.64298033714294 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 191.540118932724 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 205.4166965484619 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 225.0180344581604 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 245.59978938102722 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 269.7018187046051 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 298.80098843574524 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 316.6198101043701 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 337.14259791374207 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 348.37173199653625 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 399.41768193244934 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 453.36557149887085 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 482.9098596572876 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 523.4891946315765 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 549.6597702503204 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 582.2026245594025 seconds
+Result added to total
+16
+16:--sweep=0 finished with score 5601.8992693424225
+Config --target=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 176.3865008354187 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.33820867538452 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.86868262290955 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 230.5185763835907 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 256.4659674167633 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 275.9278919696808 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 305.3923819065094 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 323.56912064552307 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 336.30048751831055 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 351.93381357192993 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 401.76878571510315 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 465.3833484649658 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 496.49425292015076 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 527.9653224945068 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 555.1694567203522 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 598.958687543869 seconds
+Result added to total
+16
+16:--target=0 finished with score 5710.441485404968
+Config --target=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.51451563835144 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.59755444526672 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.22101831436157 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.33387279510498 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.53074669837952 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.1567220687866 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 306.56386518478394 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 322.38889718055725 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 347.6030008792877 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 348.26333475112915 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.4036684036255 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 462.9428958892822 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 491.2940185070038 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 538.7126455307007 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 566.2380664348602 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 600.1344873905182 seconds
+Result added to total
+16
+16:--target=2 finished with score 5733.8993101119995
+Config --transitive=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.42830753326416 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.55858540534973 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.24280905723572 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.9833791255951 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 253.79953002929688 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.34442925453186 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 301.87718081474304 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.4029369354248 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 341.29336047172546 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 347.83022928237915 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 404.34988737106323 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 460.7132320404053 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 479.872802734375 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 529.776605129242 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 562.0470952987671 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.7957696914673 seconds
+Result added to total
+16
+16:--transitive=0 finished with score 5690.316140174866
+Config --vivify=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 174.5700867176056 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 195.62930345535278 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 209.98380517959595 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 233.92977356910706 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 252.68665981292725 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 271.68102502822876 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 301.5046739578247 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 320.1499960422516 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 344.11187767982483 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 359.4088017940521 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 399.91362261772156 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 465.74350142478943 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 486.0493874549866 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 518.3374300003052 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 556.4026844501495 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 638.4934642314911 seconds
+Result added to total
+16
+16:--vivify=0 finished with score 5728.596093416214
+Config --warmup=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnfwas solved after 175.78587317466736 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnfwas solved after 196.38696551322937 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnfwas solved after 211.3284833431244 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnfwas solved after 234.81514525413513 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnfwas solved after 254.70177674293518 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnfwas solved after 273.8336260318756 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnfwas solved after 302.4394555091858 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnfwas solved after 321.8192491531372 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnfwas solved after 339.7470679283142 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnfwas solved after 347.42558336257935 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnfwas solved after 405.86290192604065 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnfwas solved after 463.81312465667725 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnfwas solved after 493.44518876075745 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnfwas solved after 528.9687216281891 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnfwas solved after 554.7213845252991 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+16: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnfwas solved after 597.462765455246 seconds
+Result added to total
+16
+16:--warmup=0 finished with score 5702.557312965393

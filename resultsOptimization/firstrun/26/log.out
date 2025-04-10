@@ -1,0 +1,183 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+[INFO][abstract_intensifier.py:595] Added config 6f5ce4 and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+['../instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf', '../instances/train/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf', '../instances/train/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf', '../instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf', '../instances/train/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf', '../instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf', '../instances/train/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf', '../instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf', '../instances/train/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf', '../instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf', '../instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf', '../instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf', '../instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf']
+26: Solved
+26: Timeout
+26: Timeout
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Timeout
+26: Solved
+26: Solved
+26: Solved
+26: Solved
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'congruenceands': 'false',
+  'congruencexors': 'true',
+  'phase': 'false',
+  'probeint': 966,
+  'restartint': 226,
+  'sweepclauses': 1647130177,
+  'target': 2,
+  'vivifyirr': 4,
+  'congruencexorarity': 15,
+})

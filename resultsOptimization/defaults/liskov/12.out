@@ -1,0 +1,105 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/11db226d109e82f93aaa3b2604173ff9-posixpath__joinrealpath_13.cnf.xz', '/nfs/share/instances/gbd/cnf/21bde0ebb111c637a1ae8789827b0b73-WCNF_from_fp_13.cnf.xz', '/nfs/share/instances/gbd/cnf/246afd75cb97a21144f368c00252a656-BZ2File_write_11.cnf.xz', '/nfs/share/instances/gbd/cnf/37d40a1092b58ad28285b9453872d211-DecompressReader_read_12.cnf.xz', '/nfs/share/instances/gbd/cnf/4029fbae284eaf924b37b6f43d3a67fb-WCNF_from_fp_14.cnf.xz', '/nfs/share/instances/gbd/cnf/41a8365f60db55b71d949df6954e0db7-FileObject_open_13.cnf.xz', '/nfs/share/instances/gbd/cnf/558ce551d2b933b7a5f1c7d2a6044930-collections_namedtuple_15.cnf.xz', '/nfs/share/instances/gbd/cnf/72b5ad031bf852634bc081f9da9a5a60-GzipFile_close_11.cnf.xz', '/nfs/share/instances/gbd/cnf/7aaf3275cbe217044ef305f0a1ca8eb5-CNFPlus_from_fp_12.cnf.xz', '/nfs/share/instances/gbd/cnf/824c21545e228872744675ae4ee32976-WCNFPlus_to_alien_14.cnf.xz', '/nfs/share/instances/gbd/cnf/965ca988015c9aee5a1a7b2136c1fe5d-os_fwalk_12.cnf.xz', '/nfs/share/instances/gbd/cnf/a4b05fbc5be28207b704e1fae4b7c8a0-FileObject_open_12.cnf.xz', '/nfs/share/instances/gbd/cnf/ae9b7950ef1513068bb9339893ec8c50-WCNF_to_alien_14.cnf.xz', '/nfs/share/instances/gbd/cnf/af1e84bc2ab44d87d1c4c0cbf9e601c5-posixpath_expanduser_14.cnf.xz', '/nfs/share/instances/gbd/cnf/b09585f2346c207e9e14a3daf0de46cf-CNF_to_alien_11.cnf.xz', '/nfs/share/instances/gbd/cnf/b2145c28dbed385329ea73a06d9c519a-LZMAFile___init___14.cnf.xz', '/nfs/share/instances/gbd/cnf/c32f194ad850c944142c74514dfb3c5f-WCNFPlus_from_fp_13.cnf.xz', '/nfs/share/instances/gbd/cnf/c9af5b23c87350f5d817acc9ca7b69bb-CNF_to_alien_12.cnf.xz', '/nfs/share/instances/gbd/cnf/dd169198070f9aa35015de65e8209a05-LZMAFile_write_12.cnf.xz', '/nfs/share/instances/gbd/cnf/fd2af7622798171f23a4b8d2616df55e-StreamReader_readline_13.cnf.xz']
+Starting pool with 20 threads and 20 instances
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72b5ad031bf852634bc081f9da9a5a60-GzipFile_close_11.cnffinished after 0.4892404079437256 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/246afd75cb97a21144f368c00252a656-BZ2File_write_11.cnffinished after 1.2207818031311035 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4b05fbc5be28207b704e1fae4b7c8a0-FileObject_open_12.cnffinished after 1.2836732864379883 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7aaf3275cbe217044ef305f0a1ca8eb5-CNFPlus_from_fp_12.cnffinished after 2.898420572280884 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/965ca988015c9aee5a1a7b2136c1fe5d-os_fwalk_12.cnffinished after 3.339625835418701 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c32f194ad850c944142c74514dfb3c5f-WCNFPlus_from_fp_13.cnffinished after 4.337011337280273 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dd169198070f9aa35015de65e8209a05-LZMAFile_write_12.cnffinished after 6.171035289764404 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41a8365f60db55b71d949df6954e0db7-FileObject_open_13.cnffinished after 7.223235130310059 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b09585f2346c207e9e14a3daf0de46cf-CNF_to_alien_11.cnffinished after 8.35339093208313 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21bde0ebb111c637a1ae8789827b0b73-WCNF_from_fp_13.cnffinished after 8.54276442527771 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fd2af7622798171f23a4b8d2616df55e-StreamReader_readline_13.cnffinished after 10.064877033233643 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/11db226d109e82f93aaa3b2604173ff9-posixpath__joinrealpath_13.cnffinished after 14.611818790435791 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b2145c28dbed385329ea73a06d9c519a-LZMAFile___init___14.cnffinished after 21.823370218276978 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37d40a1092b58ad28285b9453872d211-DecompressReader_read_12.cnffinished after 37.03127121925354 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4029fbae284eaf924b37b6f43d3a67fb-WCNF_from_fp_14.cnffinished after 53.44554615020752 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ae9b7950ef1513068bb9339893ec8c50-WCNF_to_alien_14.cnffinished after 70.82218432426453 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/558ce551d2b933b7a5f1c7d2a6044930-collections_namedtuple_15.cnffinished after 120.51725721359253 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/824c21545e228872744675ae4ee32976-WCNFPlus_to_alien_14.cnffinished after 133.52290534973145 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af1e84bc2ab44d87d1c4c0cbf9e601c5-posixpath_expanduser_14.cnffinished after 149.62354397773743 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+12: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c9af5b23c87350f5d817acc9ca7b69bb-CNF_to_alien_12.cnffinished after 366.8058342933655 seconds
+Result added to total
+20
+Terminated after 1022.1277875900269 seconds

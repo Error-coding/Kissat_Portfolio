@@ -1,0 +1,98 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+Starting pool with 12 threads and 19 instances
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnffinished after 2.0518500804901123 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnffinished after 2.3227591514587402 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnffinished after 2.4520907402038574 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnffinished after 2.591339349746704 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnffinished after 2.126650810241699 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnffinished after 9.086401462554932 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnffinished after 7.607518672943115 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnffinished after 7.911933422088623 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnffinished after 14.932995319366455 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnffinished after 16.31217670440674 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnffinished after 26.28286623954773 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnffinished after 29.860636711120605 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnffinished after 38.670018672943115 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnffinished after 62.84873723983765 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnffinished after 95.66908192634583 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnffinished after 155.6013481616974 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnffinished after 640.9393084049225 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+22: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnffinished after 1039.3855640888214 seconds
+Result added to total
+Started kissat
+22: Timeout
+Result added to total
+19
+Terminated after 5756.653277158737 seconds

@@ -1,0 +1,204 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+[INFO][abstract_intensifier.py:595] Added config 7568d0 and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+[INFO][abstract_intensifier.py:595] Added config 9c078a and rejected config 7568d0 as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Timeout
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+['../instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf', '../instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf', '../instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf', '../instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf', '../instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf', '../instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf', '../instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf', '../instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf', '../instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf', '../instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf', '../instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf', '../instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf', '../instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf', '../instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf', '../instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf']
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+23: Solved
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'congruenceands': 'true',
+  'congruencexors': 'false',
+  'phase': 'true',
+  'probeint': 608,
+  'restartint': 7034,
+  'sweepclauses': 954679991,
+  'target': 1,
+  'vivifyirr': 4,
+  'congruenceandarity': 1000000,
+})

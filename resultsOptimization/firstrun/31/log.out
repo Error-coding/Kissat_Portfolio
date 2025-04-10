@@ -1,0 +1,165 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Timeout
+31: Solved
+31: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+[INFO][abstract_intensifier.py:595] Added config 942d4d and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+[INFO][abstract_intensifier.py:595] Added config 39358e and rejected config 942d4d as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+[INFO][abstract_intensifier.py:595] Added config b0aeb2 and rejected config 39358e as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+['../instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf', '../instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf', '../instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf', '../instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf', '../instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf', '../instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf', '../instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf', '../instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf', '../instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf', '../instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf', '../instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf']
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+31: Solved
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'congruenceands': 'false',
+  'congruencexors': 'true',
+  'phase': 'false',
+  'probeint': 844,
+  'restartint': 4756,
+  'sweepclauses': 48831986,
+  'target': 1,
+  'vivifyirr': 32,
+  'congruencexorarity': 9,
+})

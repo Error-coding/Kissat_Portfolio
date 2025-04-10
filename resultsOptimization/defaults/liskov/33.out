@@ -1,0 +1,39 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+Starting pool with 12 threads and 8 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnffinished after 14.32438039779663 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnffinished after 22.17255687713623 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnffinished after 919.9047622680664 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnffinished after 1006.660430431366 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnffinished after 1622.5848920345306 seconds
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+8
+Terminated after 14385.647022008896 seconds

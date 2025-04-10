@@ -1,0 +1,22 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/03a43a7ea55217f53542ed3f029963af-satch2ways16w.cnf.xz', '/nfs/share/instances/gbd/cnf/0876c518e5653369e20fb1ee0bb8db40-mp1-klieber2017s-0500-023-t12.cnf.xz', '/nfs/share/instances/gbd/cnf/1009c791cee542cdf19651fe25e6881a-summle_X4053_steps8_I1-2-2-4-4-8-25-100.cnf.xz', '/nfs/share/instances/gbd/cnf/1ce81dbba1292bf791e194b17aa2a219-satch2ways15u.cnf.xz', '/nfs/share/instances/gbd/cnf/2d0c041c0fe72dc32527bfbf34f63e61-170223547.cnf.xz', '/nfs/share/instances/gbd/cnf/3bf8ba6bb4e4ea9ad08b1b058661ba2e-summle_X4044_steps7_I1-2-2-4-4-8-25-100.cnf.xz', '/nfs/share/instances/gbd/cnf/5690b9b0380aa9508699e56cae5918b5-170058440.cnf.xz', '/nfs/share/instances/gbd/cnf/91e0db01b254eb78f6643328045bfeb9-sted5_0x1e3-20.cnf.xz', '/nfs/share/instances/gbd/cnf/a38affaa741c958fc32769d5fe89b06c-frb65-12-2.used-as.sat04-874.cnf.xz', '/nfs/share/instances/gbd/cnf/abe802007c9aed4eab2e758fb130174b-mp1-klieber2017s-1600-022-eq.cnf.xz', '/nfs/share/instances/gbd/cnf/b3c587501567db72e6e66c6930cf15ed-StConn_7_128.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3f53d4c67b234d27e21f5e56bfd39e8-StConn_8_32.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c2bfe541b7cff948fa3193e9ca0eddee-frb45-21-2.used-as.sat04-884.cnf.xz', '/nfs/share/instances/gbd/cnf/e6cdc2687fa53506021f05b60ad0c6a2-GracefulGraph-K05-P02_c18.cnf.xz', '/nfs/share/instances/gbd/cnf/f054205a7cef98e5021016f864c69816-summle_X11112_steps6_I1-2-2-4-4-8-25-100.cnf.xz', '/nfs/share/instances/gbd/cnf/f32bb347996c351bc3e9a91c58e8601d-DLTM_twitter774_83_17.cnf.xz', '/nfs/share/instances/gbd/cnf/f50eaf02a8041510b64104998cc81d2f-sted5_0x24204-50.cnf.xz', '/nfs/share/instances/gbd/cnf/fee70cede2b5b55bfbdb6e48fbe7ce4f-DLTM_twitter690_74_16.cnf.xz']
+['/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/03a43a7ea55217f53542ed3f029963af-satch2ways16w.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0876c518e5653369e20fb1ee0bb8db40-mp1-klieber2017s-0500-023-t12.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1009c791cee542cdf19651fe25e6881a-summle_X4053_steps8_I1-2-2-4-4-8-25-100.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1ce81dbba1292bf791e194b17aa2a219-satch2ways15u.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2d0c041c0fe72dc32527bfbf34f63e61-170223547.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3bf8ba6bb4e4ea9ad08b1b058661ba2e-summle_X4044_steps7_I1-2-2-4-4-8-25-100.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5690b9b0380aa9508699e56cae5918b5-170058440.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/91e0db01b254eb78f6643328045bfeb9-sted5_0x1e3-20.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a38affaa741c958fc32769d5fe89b06c-frb65-12-2.used-as.sat04-874.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/abe802007c9aed4eab2e758fb130174b-mp1-klieber2017s-1600-022-eq.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3c587501567db72e6e66c6930cf15ed-StConn_7_128.sanitized.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3f53d4c67b234d27e21f5e56bfd39e8-StConn_8_32.sanitized.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c2bfe541b7cff948fa3193e9ca0eddee-frb45-21-2.used-as.sat04-884.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e6cdc2687fa53506021f05b60ad0c6a2-GracefulGraph-K05-P02_c18.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f054205a7cef98e5021016f864c69816-summle_X11112_steps6_I1-2-2-4-4-8-25-100.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f32bb347996c351bc3e9a91c58e8601d-DLTM_twitter774_83_17.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f50eaf02a8041510b64104998cc81d2f-sted5_0x24204-50.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fee70cede2b5b55bfbdb6e48fbe7ce4f-DLTM_twitter690_74_16.cnf']
+7: Timeout
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Timeout
+7: Solved
+7: Solved
+7: Timeout
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+7: Solved
+Finished after 43321.74158835411 seconds

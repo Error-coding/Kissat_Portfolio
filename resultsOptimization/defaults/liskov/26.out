@@ -1,0 +1,60 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnf.xz', '/nfs/share/instances/gbd/cnf/02e4f23ed59566d343b605dc2cc30a01-REGRandom-K4-L3-Seed40.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/0982db5b0b15642e79e8242881529b39-REGRandom-K4-L3-Seed15.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1ea7fe95e6158afe11f7b795b9aac939-REGRandom-K4-L4-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/2902c241b2196f5fd914509fdc124ba7-REGRandom-K4-L2-Seed20.cnf.xz', '/nfs/share/instances/gbd/cnf/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnf.xz', '/nfs/share/instances/gbd/cnf/2b8a711debc3a6edd01e7b4e305342d9-REGRandom-K4-L2-Seed35.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnf.xz', '/nfs/share/instances/gbd/cnf/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnf.xz', '/nfs/share/instances/gbd/cnf/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnf.xz', '/nfs/share/instances/gbd/cnf/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnf.xz']
+Starting pool with 12 threads and 13 instances
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1f44da3598ccf8bcbe9a90fb1b2f1ebd-REGRandom-K3-L3-Seed25.sanitized.cnffinished after 2.9368534088134766 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/303ba61141150f84b0d8b44839df59fd-REGRandom-K3-L3-Seed10.cnffinished after 2.9767372608184814 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4ffb80a0ad8b753fee1492101ffcbdbb-REGRandom-K4-L1-Seed5.cnffinished after 7.431288719177246 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1ea68d0008f01c50a1e4fec77dd0775e-REGRandom-K4-L1-Seed30.sanitized.cnffinished after 7.799168109893799 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd361d33986dccd7f2d86016d6c35241-ecarev-110-4099-22-30-7.cnffinished after 483.6670801639557 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b5028686db9bd1073fa09cbd8c805f47-spg_200_316.cnffinished after 591.8018724918365 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29e101b66dfddb440e974b9feec5b1aa-spg_200_307.cnffinished after 777.5576264858246 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+26: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/004b0f451f7d96f6a572e9e76360f51a-spg_420_280.cnffinished after 1132.3816471099854 seconds
+Result added to total
+Started kissat
+26: Timeout
+Result added to total
+Started kissat
+26: Timeout
+Result added to total
+Started kissat
+26: Timeout
+Result added to total
+Started kissat
+26: Timeout
+Result added to total
+Started kissat
+26: Timeout
+Result added to total
+13
+Terminated after 21006.552273750305 seconds

@@ -1,0 +1,255 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Timeout
+11: Solved
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Timeout
+11: Solved
+[INFO][abstract_intensifier.py:595] Added config 7568d0 and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+[INFO][abstract_intensifier.py:595] Added config 9d4e5c and rejected config 7568d0 as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+[INFO][abstract_intensifier.py:595] Added config 2b3f63 and rejected config 9d4e5c as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+[INFO][abstract_intensifier.py:595] Added config 64522a and rejected config 2b3f63 as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Timeout
+11: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+['../instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf', '../instances/train/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf', '../instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf', '../instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf', '../instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf', '../instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf', '../instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf', '../instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf', '../instances/train/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf', '../instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf', '../instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf', '../instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf', '../instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf', '../instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf', '../instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf', '../instances/train/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf', '../instances/train/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf', '../instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf', '../instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf', '../instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf']
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+11: Solved
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 0,
+  'congruenceands': 'false',
+  'congruencexors': 'false',
+  'phase': 'false',
+  'probeint': 101,
+  'restartint': 6484,
+  'sweepclauses': 548342518,
+  'target': 1,
+  'vivifyirr': 76,
+})

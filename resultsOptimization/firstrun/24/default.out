@@ -1,0 +1,19 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf.xz', '/nfs/share/instances/gbd/cnf/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf.xz', '/nfs/share/instances/gbd/cnf/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf.xz', '/nfs/share/instances/gbd/cnf/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf.xz', '/nfs/share/instances/gbd/cnf/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf.xz', '/nfs/share/instances/gbd/cnf/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf.xz', '/nfs/share/instances/gbd/cnf/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf.xz', '/nfs/share/instances/gbd/cnf/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf.xz', '/nfs/share/instances/gbd/cnf/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf.xz', '/nfs/share/instances/gbd/cnf/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf.xz', '/nfs/share/instances/gbd/cnf/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf.xz', '/nfs/share/instances/gbd/cnf/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf.xz', '/nfs/share/instances/gbd/cnf/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf.xz', '/nfs/share/instances/gbd/cnf/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf.xz', '/nfs/share/instances/gbd/cnf/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf.xz']
+['/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf']
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+24: Solved
+Finished after 38975.14754939079 seconds

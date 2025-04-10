@@ -1,0 +1,246 @@
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 110 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+[INFO][abstract_intensifier.py:516] Added config 3112da as new incumbent because there are no incumbents yet.
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+[INFO][abstract_intensifier.py:595] Added config 7568d0 and rejected config 3112da as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+[INFO][abstract_intensifier.py:595] Added config 9c078a and rejected config 7568d0 as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+[INFO][abstract_intensifier.py:595] Added config bb58a9 and rejected config 9c078a as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+[INFO][abstract_intensifier.py:595] Added config d1ce7e and rejected config bb58a9 as incumbent because it is not better than the incumbents on 1 instances:
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+['../instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf', '../instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf', '../instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf', '../instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf', '../instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf', '../instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf', '../instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf', '../instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf', '../instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf', '../instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf', '../instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf', '../instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf', '../instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf', '../instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf', '../instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf', '../instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf', '../instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf', '../instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf', '../instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf']
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Solved
+22: Timeout
+22: Solved
+22: Solved
+22: Timeout
+22: Timeout
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 1,
+  'congruenceands': 'true',
+  'congruencexors': 'false',
+  'phase': 'false',
+  'probeint': 672,
+  'restartint': 5822,
+  'sweepclauses': 1086175958,
+  'target': 1,
+  'vivifyirr': 63,
+  'congruenceandarity': 172231,
+})

@@ -1,0 +1,1619 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf.xz', '/nfs/share/instances/gbd/cnf/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf.xz']
+Config --backbone=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--backbone=0 finished with score 32000
+Config --backbone=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+16
+8:--backbone=2 finished with score 32000
+Config --bump=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--bump=0 finished with score 32000
+Config --chrono=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--chrono=0 finished with score 32000
+Config --congruence=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 628.4796569347382 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--congruence=0 finished with score 30628.479656934738
+Config --eliminate=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+16
+8:--eliminate=0 finished with score 32000
+Config --extract=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+16
+8:--extract=0 finished with score 32000
+Config --factor=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 65.47533750534058 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 940.9836137294769 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--factor=0 finished with score 29006.458951234818
+Config --fastel=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 445.6971437931061 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--fastel=0 finished with score 30445.697143793106
+Config --forward=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 742.6408433914185 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--forward=0 finished with score 30742.64084339142
+Config --lucky=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 235.86197447776794 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 899.05553150177 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--lucky=0 finished with score 29134.917505979538
+Config --phase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnfwas solved after 213.86591410636902 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 533.0407023429871 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--phase=0 finished with score 28746.906616449356
+Config --phasesaving=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--phasesaving=0 finished with score 32000
+Config --preprocess=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 919.7070834636688 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--preprocess=0 finished with score 30919.70708346367
+Config --probe=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--probe=0 finished with score 32000
+Config --randec=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 725.1716196537018 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 773.4815218448639 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--randec=0 finished with score 29498.653141498566
+Config --reluctant=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 685.3180396556854 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--reluctant=0 finished with score 30685.318039655685
+Config --reorder=1
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 451.7341501712799 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 465.1247351169586 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--reorder=1 finished with score 28916.85888528824
+Config --reorder=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 54.0900993347168 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 177.01917004585266 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--reorder=0 finished with score 28231.10926938057
+Config --rephase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 409.6735017299652 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 458.07307171821594 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--rephase=0 finished with score 28867.74657344818
+Config --restart=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--restart=0 finished with score 32000
+Config --stable=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 267.4695644378662 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 434.41905069351196 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--stable=0 finished with score 28701.888615131378
+Config --stable=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--stable=2 finished with score 32000
+Config --substitute=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 333.0084366798401 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 741.5545501708984 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--substitute=0 finished with score 29074.56298685074
+Config --sweep=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--sweep=0 finished with score 32000
+Config --target=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 303.81570196151733 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--target=0 finished with score 30303.815701961517
+Config --target=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--target=2 finished with score 32000
+Config --transitive=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnfwas solved after 672.070111989975 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 961.4836320877075 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--transitive=0 finished with score 29633.553744077682
+Config --vivify=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--vivify=0 finished with score 32000
+Config --warmup=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+8: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnfwas solved after 77.38648343086243 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf has reached timeout, punishment 10000 seconds
+8: Timeout
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+8: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+8:--warmup=0 finished with score 30077.386483430862

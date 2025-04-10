@@ -1,0 +1,1502 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf.xz', '/nfs/share/instances/gbd/cnf/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf.xz', '/nfs/share/instances/gbd/cnf/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf.xz', '/nfs/share/instances/gbd/cnf/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf.xz', '/nfs/share/instances/gbd/cnf/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf.xz', '/nfs/share/instances/gbd/cnf/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf.xz', '/nfs/share/instances/gbd/cnf/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf.xz', '/nfs/share/instances/gbd/cnf/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf.xz', '/nfs/share/instances/gbd/cnf/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf.xz', '/nfs/share/instances/gbd/cnf/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf.xz', '/nfs/share/instances/gbd/cnf/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf.xz', '/nfs/share/instances/gbd/cnf/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf.xz', '/nfs/share/instances/gbd/cnf/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf.xz', '/nfs/share/instances/gbd/cnf/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf.xz', '/nfs/share/instances/gbd/cnf/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf.xz']
+Config --backbone=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--backbone=0 finished with score 31000
+Config --backbone=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--backbone=2 finished with score 31000
+Config --bump=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--bump=0 finished with score 31000
+Config --chrono=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--chrono=0 finished with score 31000
+Config --congruence=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--congruence=0 finished with score 31000
+Config --eliminate=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--eliminate=0 finished with score 31000
+Config --extract=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--extract=0 finished with score 31000
+Config --factor=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--factor=0 finished with score 31000
+Config --fastel=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--fastel=0 finished with score 31000
+Config --forward=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--forward=0 finished with score 31000
+Config --lucky=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--lucky=0 finished with score 31000
+Config --phase=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--phase=0 finished with score 31000
+Config --phasesaving=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--phasesaving=0 finished with score 31000
+Config --preprocess=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--preprocess=0 finished with score 31000
+Config --probe=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--probe=0 finished with score 31000
+Config --randec=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--randec=0 finished with score 31000
+Config --reluctant=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--reluctant=0 finished with score 31000
+Config --reorder=1
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--reorder=1 finished with score 31000
+Config --reorder=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--reorder=0 finished with score 31000
+Config --rephase=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--rephase=0 finished with score 31000
+Config --restart=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--restart=0 finished with score 31000
+Config --stable=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--stable=0 finished with score 31000
+Config --stable=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--stable=2 finished with score 31000
+Config --substitute=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--substitute=0 finished with score 31000
+Config --sweep=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--sweep=0 finished with score 31000
+Config --target=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--target=0 finished with score 31000
+Config --target=2
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--target=2 finished with score 31000
+Config --transitive=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--transitive=0 finished with score 31000
+Config --vivify=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--vivify=0 finished with score 31000
+Config --warmup=0
+Number args:15
+Starting pool with 16 threads and 16 instances
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf has reached timeout, punishment 2000 seconds
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+24: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf has reached timeout, punishment 2000 seconds
+Result added to total
+15
+24:--warmup=0 finished with score 31000

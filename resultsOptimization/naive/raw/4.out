@@ -1,0 +1,2001 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0265448c232e3a25aa5bcd29b1b14567-x9-10051.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/09b61bbf19748094a7d896aac314ab36-x9-12063.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/09c1b79b1cfe3522364fe60aef780703-x9-12092.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/13ae2628d8e113db1786dba41a65fe38-x9-10027.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/1507d9812624b3e0eaf15e40100be020-x9-12014.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/19e2c3a0865c8c1b4543d11213bebe5f-x9-09024.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/334aa882de28856fc8c75885285d2a3c-HCP-446-105.cnf.xz', '/nfs/share/instances/gbd/cnf/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/3c6e1d1c4b8d3d08aa4c1df3805f4f7d-x9-10031.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/475803537529d9d14a034957f48a6d38-x9-09076.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/54c2da6d387a6f5ad6e014ae4d4decfc-x9-10038.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/5865fb9a6575d2ae6542c36ab96646a9-x9-11088.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/7fb202a51c0223f3119887a57086ca4d-x9-09051.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/9d9c4fa425282759eb9e98b82fb5f56e-x9-12087.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ad4e151d80c7012d88dd79bcfceaade5-x9-08075.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b44ea915362c3a140269003d45b1d053-x9-11034.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b7273af3d468ea2595f11a6dbd6ef6ce-x9-10007.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/bbfed8974655bca520259deb10d2347b-x9-09054.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c3e53c353f30d9e2eb54ed93d6ce4f02-x9-09007.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c5a98231dd54cbca06135293bb7e1985-x9-11053.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c6568fc8805127e876c4c23551bf49fa-x9-10076.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d195412a62cdcbb851136f60af76f463-x9-09098.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/df1bd67978b9b0ec1d326ba174bc273c-x9-12021.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e08f11f0a3bd266ee5c78ce332de107f-x9-10096.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/edceb8782e72e290fa54757dbfdd0173-x9-09057.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/f45e5faf1bcccbdd3065dd6367c3bd16-x9-10083.sat.sanitized.cnf.xz']
+Config --backbone=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.430959701538086 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 83.71883821487427 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 84.12199115753174 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 120.78863525390625 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 123.01052403450012 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 134.6301429271698 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 136.22818207740784 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 186.55752563476562 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 339.49118089675903 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 442.71253776550293 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 536.9102833271027 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 539.1125435829163 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 725.9945285320282 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 911.9629859924316 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--backbone=0 finished with score 8419.670859098434
+Config --backbone=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.42624282836914 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 83.8355233669281 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 84.08029389381409 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 120.67676568031311 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 122.72344064712524 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 134.67909502983093 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 136.37339520454407 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 186.62612318992615 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 339.6197850704193 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 443.2907030582428 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 537.0291743278503 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 538.4917459487915 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 726.125569820404 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 912.9455833435059 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--backbone=2 finished with score 8420.923441410065
+Config --bump=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 66.90412092208862 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 141.91222715377808 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 188.00031566619873 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 236.46389293670654 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 322.2537751197815 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 341.65282464027405 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 845.4978437423706 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--bump=0 finished with score 20142.685000181198
+Config --chrono=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.4264657497406 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 83.8462541103363 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 84.06154894828796 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 120.68706130981445 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 122.63009786605835 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 134.6107439994812 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 136.2898290157318 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 186.93539929389954 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 339.3121705055237 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 444.5841176509857 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 537.3626091480255 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 538.4760100841522 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 725.5705182552338 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 912.7093477249146 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--chrono=0 finished with score 8421.502173662186
+Config --congruence=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 50.297837018966675 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 62.80216097831726 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 90.48399376869202 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 98.09917116165161 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 117.75425910949707 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 134.40867805480957 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 162.3651843070984 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 407.7267153263092 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 478.0106632709503 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 494.47951650619507 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 678.7840344905853 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 689.779399394989 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 704.066002368927 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 733.0164458751678 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--congruence=0 finished with score 8902.074061632156
+Config --eliminate=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 71.55481600761414 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 89.21223974227905 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 108.97012448310852 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 191.9200201034546 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 201.94181942939758 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 229.66648697853088 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 328.12405610084534 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 356.19175004959106 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 364.20855355262756 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 379.21474504470825 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 438.70958948135376 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 848.1691391468048 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 907.1510422229767 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--eliminate=0 finished with score 10515.034382343292
+Config --extract=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 43.44574546813965 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 67.10124349594116 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 77.13557243347168 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 86.4636640548706 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 134.63995218276978 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 146.56473660469055 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 209.74895453453064 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 230.34793901443481 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 273.00050616264343 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 324.39647126197815 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 511.61567854881287 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 516.2063336372375 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 530.1318891048431 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 685.7592713832855 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 898.3971924781799 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 909.1084403991699 seconds
+Result added to total
+16
+4:--extract=0 finished with score 5644.063590764999
+Config --factor=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 45.715357065200806 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 69.22968292236328 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 110.2429051399231 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 207.04866218566895 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 221.0477373600006 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 228.82929968833923 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 233.11506009101868 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 289.67186093330383 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 329.2614276409149 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 343.3750669956207 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 651.3350517749786 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 838.3513362407684 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 923.7675001621246 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--factor=0 finished with score 10490.990948200226
+Config --fastel=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 28.2919020652771 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.46833157539368 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 115.81183314323425 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 120.60653901100159 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 122.6248939037323 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 136.30079746246338 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 154.72538948059082 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 186.528822183609 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 248.59834504127502 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 339.38561391830444 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 379.3993637561798 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 434.97736954689026 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 484.2868683338165 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 589.5016384124756 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 911.0493183135986 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--fastel=0 finished with score 6306.557026147842
+Config --forward=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 56.2338445186615 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 64.42570090293884 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 80.55015420913696 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 106.88860177993774 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 122.36467909812927 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 164.5359025001526 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 172.37245392799377 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 176.63055992126465 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 342.8343737125397 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 364.0741617679596 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 411.43244099617004 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 511.6897144317627 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 730.5613441467285 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 894.9782583713531 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--forward=0 finished with score 8199.572190284729
+Config --lucky=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 18.7729754447937 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 33.16693711280823 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 52.77520775794983 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.25740838050842 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 72.9362211227417 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 90.65391731262207 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 146.04180145263672 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 158.26012015342712 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 335.47205781936646 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 404.3429696559906 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 494.571186542511 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 679.6270051002502 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 683.2453155517578 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 773.2905776500702 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--lucky=0 finished with score 7997.413701057434
+Config --phase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 55.53268527984619 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 96.71445083618164 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 123.72876238822937 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 132.54563736915588 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 160.84792518615723 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 173.38811564445496 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 188.83870577812195 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 189.09407448768616 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 249.328138589859 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 396.1694984436035 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 446.6454493999481 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 457.9543423652649 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 480.027902841568 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 821.910046339035 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--phase=0 finished with score 7972.725734949112
+Config --phasesaving=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 56.61026906967163 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 64.77195501327515 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 88.88194990158081 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 89.87512588500977 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 111.1814534664154 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 115.62282633781433 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 135.7510950565338 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 221.5414981842041 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 241.94788002967834 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 257.3012161254883 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 347.292147397995 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 400.66378378868103 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 440.09838128089905 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 545.4134981632233 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 733.3839316368103 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--phasesaving=0 finished with score 5850.33701133728
+Config --preprocess=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 55.588834047317505 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 96.6835355758667 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 107.97589588165283 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 109.41634249687195 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 124.1213891506195 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 149.38731026649475 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 263.4499924182892 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 364.1489896774292 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 414.81041860580444 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 439.5464084148407 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 515.4121594429016 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 540.9080832004547 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 718.5085546970367 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 814.7496390342712 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--preprocess=0 finished with score 8714.707552909851
+Config --probe=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 77.87037587165833 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 95.77055335044861 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 129.2187464237213 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 134.11957454681396 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 232.87436175346375 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 301.65498995780945 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 332.86942768096924 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 348.2563319206238 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 359.1787476539612 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 928.0520141124725 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--probe=0 finished with score 14939.865123271942
+Config --randec=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 46.25269293785095 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 52.70335078239441 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 56.86412286758423 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 96.04799938201904 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 117.61244130134583 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 155.67191338539124 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 219.16070127487183 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 226.8521590232849 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 246.47839617729187 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 323.42315435409546 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 401.9991581439972 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 434.4438021183014 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 508.3875632286072 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 792.5683696269989 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--randec=0 finished with score 7678.465824604034
+Config --reluctant=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 7.156506776809692 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 32.8280143737793 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 41.10979914665222 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 65.08393001556396 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 102.04174542427063 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 133.96978378295898 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 134.6505959033966 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 221.68020677566528 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 307.2299256324768 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 416.8620927333832 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 542.3684651851654 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 668.1837186813354 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 820.2219696044922 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 832.8308818340302 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--reluctant=0 finished with score 8326.21763586998
+Config --reorder=1
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 32.21142506599426 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 54.6688334941864 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 61.60462665557861 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 110.55023169517517 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 142.4127926826477 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 154.84838032722473 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 294.9902901649475 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 453.72498083114624 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 453.94704151153564 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 454.0473804473877 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 583.1452059745789 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 862.4718475341797 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--reorder=1 finished with score 11658.623036384583
+Config --reorder=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 8.011691808700562 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.137701988220215 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 93.8992531299591 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 146.91122150421143 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 148.64095211029053 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 159.14994025230408 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 194.8363654613495 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 213.00755190849304 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 276.5644760131836 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 316.8428146839142 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 378.7434093952179 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 468.2448799610138 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 504.02357745170593 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 644.9822845458984 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 970.9935739040375 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 995.9632773399353 seconds
+Result added to total
+16
+4:--reorder=0 finished with score 5574.952971458435
+Config --rephase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 5.708578824996948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 74.59671664237976 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 112.42540001869202 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 127.3833019733429 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 137.17227935791016 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 187.82545804977417 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 328.2465479373932 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 371.2894456386566 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 378.6493983268738 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 404.6903965473175 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 437.7632772922516 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 477.99339509010315 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 647.4333708286285 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 707.3456320762634 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 979.1174170970917 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--rephase=0 finished with score 7377.640615701675
+Config --restart=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 0.890918493270874 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 20.301240921020508 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.83760619163513 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 58.452942848205566 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 97.6234962940216 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 102.3625876903534 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 127.84805727005005 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 132.8597309589386 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 147.29246139526367 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 308.43440294265747 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 412.41133642196655 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 460.09744811058044 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 506.30084705352783 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 579.8131132125854 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 625.7253930568695 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 958.632570028305 seconds
+Result added to total
+16
+4:--restart=0 finished with score 4593.884152889252
+Config --stable=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 33.6959593296051 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 87.86229538917542 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 105.10107421875 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 197.151447057724 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 263.40129137039185 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 272.40212392807007 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 274.341970205307 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 276.5177867412567 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 557.9723663330078 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 865.2064888477325 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 885.3194212913513 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--stable=0 finished with score 13818.972224712372
+Config --stable=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 13.872095823287964 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 39.46991324424744 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 39.75450801849365 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 45.058640241622925 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 75.04665923118591 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 79.86314177513123 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 80.30257439613342 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 82.18698406219482 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 88.50254249572754 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 126.9565486907959 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 142.1114366054535 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 285.84386920928955 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 286.2803862094879 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 387.48350167274475 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 471.9379189014435 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 918.692305803299 seconds
+Result added to total
+16
+4:--stable=2 finished with score 3163.363026380539
+Config --substitute=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 54.329734802246094 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.37926173210144 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 88.59791159629822 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 102.36399340629578 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 105.08835124969482 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 118.48959946632385 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 141.67060136795044 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnfwas solved after 152.9759488105774 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 162.12026023864746 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 248.12956404685974 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 326.39173007011414 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 374.5039646625519 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 420.6305329799652 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 507.038645029068 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 928.3882811069489 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--substitute=0 finished with score 5785.098380565643
+Config --sweep=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 52.886250019073486 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 81.60978960990906 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 82.08705353736877 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 118.70216965675354 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 120.25573706626892 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 132.60000205039978 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 134.05839204788208 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 181.84431385993958 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 332.6692817211151 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 435.2956416606903 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 528.647792339325 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnfwas solved after 533.7668070793152 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 712.8334686756134 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 906.1527671813965 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+16
+4:--sweep=0 finished with score 8353.40946650505
+Config --target=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 6.121891260147095 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 11.175172090530396 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 29.66558051109314 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.07382273674011 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 91.52365446090698 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 117.15803718566895 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 120.4975974559784 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 121.270432472229 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 186.41548037528992 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 331.082453250885 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 410.6216197013855 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 538.0472304821014 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 748.5879218578339 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--target=0 finished with score 8766.24089384079
+Config --target=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 8.058756828308105 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 51.31328725814819 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 62.36792612075806 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 91.06776356697083 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 112.752854347229 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 140.10138320922852 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 260.1861250400543 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 262.20606446266174 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 277.35620856285095 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 330.56260323524475 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 464.79050374031067 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 516.9574944972992 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 620.008629322052 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 636.4787900447845 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+16
+4:--target=2 finished with score 7834.208390235901
+Config --transitive=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 19.755983114242554 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 58.38874411582947 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 59.69679594039917 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 75.81311321258545 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 77.66433835029602 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 105.06493639945984 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 124.32864952087402 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 157.8530251979828 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 219.59560751914978 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 368.78387999534607 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 474.6786744594574 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnfwas solved after 792.0212228298187 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 861.4692578315735 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 947.6030111312866 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--transitive=0 finished with score 8342.717239618301
+Config --vivify=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 41.49476885795593 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 54.09646034240723 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 70.2281482219696 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 105.97728252410889 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 125.15286540985107 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnfwas solved after 127.9857861995697 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 131.95492887496948 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 152.1628737449646 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 178.91157841682434 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnfwas solved after 186.30328559875488 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 344.1692125797272 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 528.9441685676575 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 693.9254179000854 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--vivify=0 finished with score 8741.306777238846
+Config --warmup=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a45a0358685867bd4f1c7f7c0b0e379c-x9-10014.sat.sanitized.cnfwas solved after 52.42326903343201 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f296fe701a562022c0de0cf565fbca7d-x9-08014.sat.sanitized.cnfwas solved after 58.63521218299866 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a75ad246dbc750a7391ad887c5b0835-x9-11093.sat.sanitized.cnfwas solved after 60.70815181732178 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b18bb75459a4161633ba2a3c8ee183e-x9-11062.sat.sanitized.cnfwas solved after 67.98154163360596 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/57f4ea7ab160d996e38e69fac59869c4-x9-09047.sat.sanitized.cnfwas solved after 88.86657357215881 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eddd68e14d69cce7190b99f4e7abdafb-x9-10098.sat.sanitized.cnfwas solved after 98.44069051742554 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ded23680dfeab2879c05bc0e4de21126-x9-09014.sat.sanitized.cnfwas solved after 129.97952675819397 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/915a25bd189357e4c6d7771b69a6849f-x9-09004.sat.sanitized.cnfwas solved after 143.59903717041016 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f376d4c191518ed704326960b6b19a4b-x9-10084.sat.sanitized.cnfwas solved after 398.68632984161377 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0e6e6eeebd48ca600cfc7d662fa804c-x9-10093.sat.sanitized.cnfwas solved after 467.7479057312012 seconds
+Result added to total
+Process exited with expected code 20, no error: 
+4: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aa9b67fd19d54ad51b93ee4ba5dc75fc-x9-10002.sat.sanitized.cnfwas solved after 823.7732677459717 seconds
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/14e4cfcf0d83b2185fad41684d00d4dc-x9-12035.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af05a6b68a1cff165b684d9ff0ae3b3b-x9-12098.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/195852083a05edee1902233698eec14a-x9-11077.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+4: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5e1c11b77cdf3717b81b957120f0f477-x9-12001.sat.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+4:--warmup=0 finished with score 12390.841506004333

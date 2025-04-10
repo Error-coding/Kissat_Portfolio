@@ -1,0 +1,90 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0bad2ce307bf5b68db26fa34e252c9d4-af-synthesis_stb_50_100_4_sat.cnf.xz', '/nfs/share/instances/gbd/cnf/14ea5857d75ae2b235a3ba97373ea732-af-synthesis_stb_50_40_9_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/16c27d738cb45b766b8823ca4f428cf0-rbsat-v760c43649gyes7.cnf.xz', '/nfs/share/instances/gbd/cnf/170a7d847694ee4cfa5c421757672882-af-synthesis_stb_50_140_0_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1a1c9d1dc1ae7fcff92e3c3499864b75-af-synthesis_stb_50_200_4_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1b0f4ff7984b8d4cf2873200fb1680fb-af-synthesis_stb_50_140_1_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/38833d6a1ff6a56ef22bd2dc1e3fdde7-rbsat-v1150c84314gyes10.cnf.xz', '/nfs/share/instances/gbd/cnf/3ed56242f55e3653dbceeb4a70221787-rbsat-v945c61409gyes9-sc2009.cnf.xz', '/nfs/share/instances/gbd/cnf/5e5fe73a2e0ffc8e19873298566919fb-rbsat-v760c43649gyes3.cnf.xz', '/nfs/share/instances/gbd/cnf/695e287a447fcdd924985a6e73057a38-rbsat-v1150c84314gyes1.cnf.xz', '/nfs/share/instances/gbd/cnf/71a3dd6156463c0c55c4b38394faa753-af-synthesis_stb_50_120_4_sat.cnf.xz', '/nfs/share/instances/gbd/cnf/7429e380834066c206394139c9e1e17d-af-synthesis_stb_50_100_9_sat.cnf.xz', '/nfs/share/instances/gbd/cnf/82d9e8d2cfea101dfe52c8359b7bb163-af-synthesis_stb_50_40_2_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/94571e8a1081385029d1ecd53ffcdf8e-af-synthesis_stb_50_200_0_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/be18894105e006399cc018abc14b204f-af-synthesis_stb_50_40_9_sat.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f511adbb3d6e1b37b410f972f270c6-af-synthesis_stb_50_140_3_unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/e067414e153ee98a7842bd6d6dafeee5-af-synthesis_stb_50_200_0_sat.cnf.xz', '/nfs/share/instances/gbd/cnf/e99e266b422513a2898c13898a1de501-rbsat-v760c43649gyes9.cnf.xz', '/nfs/share/instances/gbd/cnf/f16b7329ef5728f722c291156b3b098e-af-synthesis_stb_50_100_9_unsat.cnf.xz']
+Starting pool with 20 threads and 19 instances
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7429e380834066c206394139c9e1e17d-af-synthesis_stb_50_100_9_sat.cnffinished after 5.414937973022461 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3ed56242f55e3653dbceeb4a70221787-rbsat-v945c61409gyes9-sc2009.cnffinished after 34.69830870628357 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c27d738cb45b766b8823ca4f428cf0-rbsat-v760c43649gyes7.cnffinished after 154.73983120918274 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e99e266b422513a2898c13898a1de501-rbsat-v760c43649gyes9.cnffinished after 175.5410966873169 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/be18894105e006399cc018abc14b204f-af-synthesis_stb_50_40_9_sat.cnffinished after 192.11765480041504 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c9f511adbb3d6e1b37b410f972f270c6-af-synthesis_stb_50_140_3_unsat.cnffinished after 298.08219289779663 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71a3dd6156463c0c55c4b38394faa753-af-synthesis_stb_50_120_4_sat.cnffinished after 349.63400864601135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/82d9e8d2cfea101dfe52c8359b7bb163-af-synthesis_stb_50_40_2_unsat.cnffinished after 393.50187611579895 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a1c9d1dc1ae7fcff92e3c3499864b75-af-synthesis_stb_50_200_4_unsat.cnffinished after 427.02374958992004 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e067414e153ee98a7842bd6d6dafeee5-af-synthesis_stb_50_200_0_sat.cnffinished after 517.8587017059326 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f16b7329ef5728f722c291156b3b098e-af-synthesis_stb_50_100_9_unsat.cnffinished after 765.8391783237457 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/170a7d847694ee4cfa5c421757672882-af-synthesis_stb_50_140_0_unsat.cnffinished after 803.7496314048767 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/94571e8a1081385029d1ecd53ffcdf8e-af-synthesis_stb_50_200_0_unsat.cnffinished after 864.3394057750702 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+9: Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0bad2ce307bf5b68db26fa34e252c9d4-af-synthesis_stb_50_100_4_sat.cnffinished after 1230.0210111141205 seconds
+Result added to total
+Started kissat
+9: Timeout
+Result added to total
+Started kissat
+9: Timeout
+Result added to total
+Started kissat
+9: Timeout
+Result added to total
+Started kissat
+9: Timeout
+Result added to total
+Started kissat
+9: Timeout
+Result added to total
+19
+Terminated after 24212.561584949493 seconds

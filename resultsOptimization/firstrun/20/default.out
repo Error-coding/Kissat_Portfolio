@@ -1,0 +1,23 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/06b138e8a6da806e88ac7da2919cef30-grs-192-32.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3e99a07b6a6b67ac59d706c0af9d68-grs-32-160.cnf.xz', '/nfs/share/instances/gbd/cnf/20cae5fe475d571da703f89d5da4bb8f-grs-96-32.cnf.xz', '/nfs/share/instances/gbd/cnf/2f219dfa21d996e1834aa247f934f304-grs-192-48.cnf.xz', '/nfs/share/instances/gbd/cnf/3498eea73b78ddc444cbee48b121c541-grs-64-160.cnf.xz', '/nfs/share/instances/gbd/cnf/385a678ba820d79c6fb5f497adaf32ec-grs-48-128.cnf.xz', '/nfs/share/instances/gbd/cnf/40ae60a61929b6bfa2ac99ab4b9a0f7e-grs-96-192.cnf.xz', '/nfs/share/instances/gbd/cnf/46e119b7ff8d0781354bfe68139c99b5-grs-96-96.cnf.xz', '/nfs/share/instances/gbd/cnf/6b2ccabf0304af478a558b8a333ced32-grs-192-256.cnf.xz', '/nfs/share/instances/gbd/cnf/792495b57d6145fd21d7076eab2ab06a-grs-64-64.cnf.xz', '/nfs/share/instances/gbd/cnf/79c109a8c1da53c6b636d3835f11a19d-grs-64-32.cnf.xz', '/nfs/share/instances/gbd/cnf/89120de895868a3fccd74f30f78a5448-grs-192-160.cnf.xz', '/nfs/share/instances/gbd/cnf/9777418f75e1dfbd7d34e9b0ba4bf0b5-grs-64-128.cnf.xz', '/nfs/share/instances/gbd/cnf/a0c7aea176b5a2b65c27c8af7039326b-grs-160-64.cnf.xz', '/nfs/share/instances/gbd/cnf/a1276d5dcb822aa03806df58fa9ca1c8-grs-128-32.cnf.xz', '/nfs/share/instances/gbd/cnf/a7bbcc6535cca5a37f015f29090e8797-grs-48-256.cnf.xz', '/nfs/share/instances/gbd/cnf/b6c44ccb3174b7f0a69185b11de86cfa-grs-128-64.cnf.xz', '/nfs/share/instances/gbd/cnf/dbe18c99e95ac42816b99b96d36a8732-grs-32-256.cnf.xz', '/nfs/share/instances/gbd/cnf/f55acea8f0d207becbbbd26a11d97841-grs-48-160.cnf.xz']
+['/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/06b138e8a6da806e88ac7da2919cef30-grs-192-32.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3e99a07b6a6b67ac59d706c0af9d68-grs-32-160.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/20cae5fe475d571da703f89d5da4bb8f-grs-96-32.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2f219dfa21d996e1834aa247f934f304-grs-192-48.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3498eea73b78ddc444cbee48b121c541-grs-64-160.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/385a678ba820d79c6fb5f497adaf32ec-grs-48-128.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/40ae60a61929b6bfa2ac99ab4b9a0f7e-grs-96-192.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/46e119b7ff8d0781354bfe68139c99b5-grs-96-96.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6b2ccabf0304af478a558b8a333ced32-grs-192-256.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/792495b57d6145fd21d7076eab2ab06a-grs-64-64.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/79c109a8c1da53c6b636d3835f11a19d-grs-64-32.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/89120de895868a3fccd74f30f78a5448-grs-192-160.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9777418f75e1dfbd7d34e9b0ba4bf0b5-grs-64-128.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a0c7aea176b5a2b65c27c8af7039326b-grs-160-64.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a1276d5dcb822aa03806df58fa9ca1c8-grs-128-32.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7bbcc6535cca5a37f015f29090e8797-grs-48-256.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b6c44ccb3174b7f0a69185b11de86cfa-grs-128-64.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/dbe18c99e95ac42816b99b96d36a8732-grs-32-256.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f55acea8f0d207becbbbd26a11d97841-grs-48-160.cnf']
+20: Solved
+20: Solved
+20: Solved
+20: Solved
+20: Timeout
+20: Solved
+20: Timeout
+20: Solved
+20: Timeout
+20: Solved
+20: Solved
+20: Timeout
+20: Solved
+20: Solved
+20: Solved
+20: Timeout
+20: Solved
+20: Timeout
+20: Solved
+Finished after 83270.79614114761 seconds

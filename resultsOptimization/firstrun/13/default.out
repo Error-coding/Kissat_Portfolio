@@ -1,0 +1,24 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/090eefb9bc472f6478e70baf2c6d2403-PRP_100_150.cnf.xz', '/nfs/share/instances/gbd/cnf/150b5f8cac40bb4e0fcbdd65c3c04701-PRP_100_550.cnf.xz', '/nfs/share/instances/gbd/cnf/1b86f59ce4c43f19f0ad1238f8c362b4-PRP_30_37.cnf.xz', '/nfs/share/instances/gbd/cnf/1d42a7c3616ce163e292340cfcd34f97-PRP_100_600.cnf.xz', '/nfs/share/instances/gbd/cnf/291c2b4fa2d8b009cd2a8331891ba667-PRP_30_40.cnf.xz', '/nfs/share/instances/gbd/cnf/339b1cfda231aaca601cd6339c07ca2c-PRP_100_450.cnf.xz', '/nfs/share/instances/gbd/cnf/3a7a64e1d6cf5ce969b2b05b5464f707-PRP_30_38.cnf.xz', '/nfs/share/instances/gbd/cnf/44ad104c3b0c83b4cfc260583dee2397-PRP_30_36.cnf.xz', '/nfs/share/instances/gbd/cnf/93a87994c03a7752f85d863239555d48-PRP_30_35.cnf.xz', '/nfs/share/instances/gbd/cnf/9631e4082abf03e560b889c5715d3979-PRP_30_41.cnf.xz', '/nfs/share/instances/gbd/cnf/98c6da979a0a22d384d465a1da17111e-PRP_100_250.cnf.xz', '/nfs/share/instances/gbd/cnf/a83665715cf54e10f6d5382b97fd909c-PRP_100_400.cnf.xz', '/nfs/share/instances/gbd/cnf/b44611ea7852dd30215cc1cb09e1ab79-PRP_30_39.cnf.xz', '/nfs/share/instances/gbd/cnf/bdc85226a8d910a8b7d6a8730c7a4572-PRP_40_40.cnf.xz', '/nfs/share/instances/gbd/cnf/d3529338d35aa27e8024932d3b5f64b5-PRP_20_50.cnf.xz', '/nfs/share/instances/gbd/cnf/d46c3fc9e953d4f84e8a18e52e29e7b7-PRP_100_350.cnf.xz', '/nfs/share/instances/gbd/cnf/d66ab8bce1b8979dbd26b3c220e817be-PRP_200_100.cnf.xz', '/nfs/share/instances/gbd/cnf/ddd3b43476c18cf483aac233d4dc1c68-PRP_20_40.cnf.xz', '/nfs/share/instances/gbd/cnf/ea5b47b3ffb3b8cb77a2cff83cc1ffba-PRP_100_500.cnf.xz', '/nfs/share/instances/gbd/cnf/fdc5aa7c150fd1c49ad3b50433277528-PRP_100_300.cnf.xz']
+['/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/090eefb9bc472f6478e70baf2c6d2403-PRP_100_150.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/150b5f8cac40bb4e0fcbdd65c3c04701-PRP_100_550.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b86f59ce4c43f19f0ad1238f8c362b4-PRP_30_37.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1d42a7c3616ce163e292340cfcd34f97-PRP_100_600.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/291c2b4fa2d8b009cd2a8331891ba667-PRP_30_40.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/339b1cfda231aaca601cd6339c07ca2c-PRP_100_450.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3a7a64e1d6cf5ce969b2b05b5464f707-PRP_30_38.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44ad104c3b0c83b4cfc260583dee2397-PRP_30_36.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/93a87994c03a7752f85d863239555d48-PRP_30_35.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9631e4082abf03e560b889c5715d3979-PRP_30_41.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/98c6da979a0a22d384d465a1da17111e-PRP_100_250.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a83665715cf54e10f6d5382b97fd909c-PRP_100_400.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b44611ea7852dd30215cc1cb09e1ab79-PRP_30_39.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bdc85226a8d910a8b7d6a8730c7a4572-PRP_40_40.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d3529338d35aa27e8024932d3b5f64b5-PRP_20_50.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d46c3fc9e953d4f84e8a18e52e29e7b7-PRP_100_350.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d66ab8bce1b8979dbd26b3c220e817be-PRP_200_100.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ddd3b43476c18cf483aac233d4dc1c68-PRP_20_40.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ea5b47b3ffb3b8cb77a2cff83cc1ffba-PRP_100_500.cnf', '/nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fdc5aa7c150fd1c49ad3b50433277528-PRP_100_300.cnf']
+13: Timeout
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Timeout
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Solved
+13: Timeout
+13: Timeout
+13: Solved
+13: Timeout
+13: Solved
+Finished after 56284.19012904167 seconds

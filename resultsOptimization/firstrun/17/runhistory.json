@@ -1,0 +1,259 @@
+{
+  "stats": {
+    "submitted": 10,
+    "finished": 10,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      97107.89858865738,
+      52109.46627783775,
+      1,
+      1732262749.5919912,
+      1732314859.0686944,
+      {}
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      96459.33963537216,
+      51469.880319833755,
+      1,
+      1732314859.0836003,
+      1732366328.9738863,
+      {}
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      97636.2361547947,
+      52640.10856103897,
+      1,
+      1732366331.0832043,
+      1732418971.2015631,
+      {}
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      80013.6346218586,
+      45019.64900279045,
+      1,
+      1732418971.2200563,
+      1732463990.8789868,
+      {}
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      93890.21943855286,
+      48909.252338409424,
+      1,
+      1732463990.8978965,
+      1732512900.1601632,
+      {}
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      88336.23022341728,
+      48338.079125881195,
+      1,
+      1732512900.1797345,
+      1732561238.2687805,
+      {}
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      86847.13864946365,
+      46852.40715384483,
+      1,
+      1732561238.2852588,
+      1732608090.702379,
+      {}
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      96585.70396399498,
+      51592.05501651764,
+      1,
+      1732608090.7230089,
+      1732659682.787999,
+      {}
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      97606.1103720665,
+      52607.48208642006,
+      1,
+      1732659682.8098974,
+      1732712290.3019123,
+      {}
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      104324.26378560066,
+      54335.67093038559,
+      1,
+      1732712290.323751,
+      1732766626.0045724,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "backbone": 1,
+      "congruenceands": "false",
+      "congruencexors": "true",
+      "phase": "true",
+      "probeint": 862,
+      "restartint": 4956,
+      "sweepclauses": 2061531719,
+      "target": 2,
+      "vivifyirr": 77,
+      "congruencexorarity": 10
+    },
+    "2": {
+      "backbone": 2,
+      "congruenceands": "true",
+      "congruencexors": "false",
+      "phase": "false",
+      "probeint": 276,
+      "restartint": 5973,
+      "sweepclauses": 537228092,
+      "target": 1,
+      "vivifyirr": 9,
+      "congruenceandarity": 876
+    },
+    "3": {
+      "backbone": 0,
+      "congruenceands": "false",
+      "congruencexors": "false",
+      "phase": "false",
+      "probeint": 36,
+      "restartint": 5607,
+      "sweepclauses": 1810819215,
+      "target": 2,
+      "vivifyirr": 71
+    },
+    "4": {
+      "backbone": 1,
+      "congruenceands": "false",
+      "congruencexors": "false",
+      "phase": "true",
+      "probeint": 79,
+      "restartint": 6000,
+      "sweepclauses": 340041433,
+      "target": 1,
+      "vivifyirr": 29
+    },
+    "5": {
+      "backbone": 2,
+      "congruenceands": "true",
+      "congruencexors": "false",
+      "phase": "true",
+      "probeint": 608,
+      "restartint": 7034,
+      "sweepclauses": 954679991,
+      "target": 1,
+      "vivifyirr": 4,
+      "congruenceandarity": 1000000
+    },
+    "6": {
+      "backbone": 0,
+      "congruenceands": "false",
+      "congruencexors": "false",
+      "phase": "false",
+      "probeint": 101,
+      "restartint": 6484,
+      "sweepclauses": 548342518,
+      "target": 1,
+      "vivifyirr": 76
+    },
+    "7": {
+      "backbone": 1,
+      "congruenceands": "false",
+      "congruencexors": "false",
+      "phase": "true",
+      "probeint": 205,
+      "restartint": 8535,
+      "sweepclauses": 1099993009,
+      "target": 0,
+      "vivifyirr": 52
+    },
+    "8": {
+      "backbone": 1,
+      "congruenceands": "true",
+      "congruencexors": "false",
+      "phase": "false",
+      "probeint": 440,
+      "restartint": 7112,
+      "sweepclauses": 1057393875,
+      "target": 2,
+      "vivifyirr": 88,
+      "congruenceandarity": 1000000
+    },
+    "9": {
+      "backbone": 1,
+      "congruenceands": "true",
+      "congruencexors": "false",
+      "phase": "false",
+      "probeint": 672,
+      "restartint": 5822,
+      "sweepclauses": 1086175958,
+      "target": 1,
+      "vivifyirr": 63,
+      "congruenceandarity": 172231
+    },
+    "10": {
+      "backbone": 1,
+      "congruenceands": "true",
+      "congruencexors": "false",
+      "phase": "true",
+      "probeint": 615,
+      "restartint": 5473,
+      "sweepclauses": 799556293,
+      "target": 0,
+      "vivifyirr": 3,
+      "congruenceandarity": 1000000
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Acquisition Function Maximizer: Local Search",
+    "4": "Acquisition Function Maximizer: Local Search",
+    "5": "Acquisition Function Maximizer: Local Search",
+    "6": "Acquisition Function Maximizer: Local Search",
+    "7": "Acquisition Function Maximizer: Local Search",
+    "8": "Acquisition Function Maximizer: Local Search",
+    "9": "Acquisition Function Maximizer: Local Search",
+    "10": "Acquisition Function Maximizer: Local Search"
+  }
+}

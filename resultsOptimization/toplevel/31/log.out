@@ -1,0 +1,2779 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz']
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 260 to 12 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 12 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 90.8790807723999 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 91.78671407699585 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 92.54972887039185 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 93.63967323303223 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 98.11439275741577 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 168.08976674079895 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 169.53208541870117 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 452.6810975074768 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 455.47235894203186 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 464.58832716941833 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 688.1318166255951 seconds
+Result added to total
+11
+[INFO][abstract_intensifier.py:516] Added config 23ffcf as new incumbent because there are no incumbents yet.
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 53.17816615104675 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 53.76515221595764 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 80.24282240867615 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 85.63532400131226 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 188.1048104763031 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 196.1063232421875 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 197.9420130252838 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 204.5739781856537 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 289.3925898075104 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 347.9426884651184 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 633.0550765991211 seconds
+Result added to total
+11
+[INFO][abstract_intensifier.py:595] Added config e6b292 and rejected config 23ffcf as incumbent because it is not better than the incumbents on 1 instances:
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 57.18783640861511 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 136.09317779541016 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 140.75649213790894 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 149.50880098342896 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 158.76974749565125 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 201.99457669258118 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 272.1071267127991 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 278.20009779930115 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 475.51001024246216 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 495.88067746162415 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 1544.9150681495667 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 73.0958354473114 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 74.42258262634277 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 149.08120012283325 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 154.07364130020142 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 162.01019620895386 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 184.34217810630798 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 269.18165731430054 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 271.8283133506775 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 639.4923300743103 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 705.5613720417023 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 743.1579167842865 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 51.609811544418335 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 54.61028742790222 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 68.56959056854248 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 166.35195517539978 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 169.43927431106567 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 172.6771469116211 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 328.9073827266693 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 475.75784063339233 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 535.7446932792664 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 537.2239720821381 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 758.5709488391876 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 35.57196497917175 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 48.7284517288208 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 129.22896695137024 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 130.33160948753357 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 131.04814314842224 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 135.75319409370422 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 172.97712898254395 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 227.26350116729736 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 229.16645622253418 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 332.3829348087311 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 502.09620904922485 seconds
+Result added to total
+11
+[INFO][abstract_intensifier.py:595] Added config 9d0736 and rejected config e6b292 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 47.590567111968994 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 73.73550868034363 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 74.19355988502502 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 77.1664206981659 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 79.69432306289673 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 168.70740914344788 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 281.31310057640076 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 324.0487027168274 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 424.78680634498596 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 480.8482942581177 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 578.2934811115265 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 66.19990086555481 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 73.60767531394958 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 88.69704246520996 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 120.46114015579224 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 147.1040198802948 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 151.43880319595337 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 168.37615609169006 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 169.40346479415894 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 179.56652331352234 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 322.80073404312134 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 539.731100320816 seconds
+Result added to total
+11
+[INFO][abstract_intensifier.py:595] Added config 154790 and rejected config 9d0736 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 49.697556257247925 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.30328869819641 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.325424671173096 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 75.18282222747803 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 104.6778359413147 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 108.50634431838989 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 152.33572912216187 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 154.61132979393005 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 191.1689910888672 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 204.17337822914124 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 260.05251717567444 seconds
+Result added to total
+11
+[INFO][abstract_intensifier.py:595] Added config 01ce33 and rejected config 154790 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 67.49286842346191 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 67.50246286392212 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 68.198251247406 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 121.78662419319153 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 123.75682759284973 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 124.41859412193298 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 124.50048971176147 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 573.279061794281 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 766.0501279830933 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 784.697329044342 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 1057.1316592693329 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 29.510265588760376 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 46.95493221282959 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 75.40099549293518 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 98.58122491836548 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 100.99021339416504 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 102.81751990318298 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 104.69741821289062 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 187.20956873893738 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 189.03261399269104 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 205.4526288509369 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 328.3015253543854 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 50.215970039367676 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.97590112686157 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 51.94377136230469 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 53.94012999534607 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 104.11921572685242 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 107.93501901626587 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 189.3388192653656 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 193.00589060783386 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 245.63688254356384 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 258.7953350543976 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 414.0522036552429 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 18.37379479408264 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 51.770134925842285 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 105.6873619556427 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 110.53957796096802 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 110.85142683982849 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 111.5084662437439 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 112.69510674476624 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 112.79287719726562 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 331.65784740448 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 341.3685281276703 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 720.3244671821594 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 45.451823234558105 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 68.08189749717712 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 97.56928205490112 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 97.65556311607361 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 99.97369933128357 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 101.61547112464905 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 102.9124858379364 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 181.12431597709656 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 184.6595754623413 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 377.82508182525635 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 479.52575516700745 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 43.07968783378601 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 43.353679180145264 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 63.43142914772034 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 65.2015175819397 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 67.12893342971802 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 179.75418186187744 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 183.1448268890381 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 187.67883157730103 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 188.75784420967102 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 290.24397444725037 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 1309.0638790130615 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 18.3513662815094 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 52.117515087127686 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 105.6026623249054 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 108.75164937973022 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 110.7355432510376 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 111.86038875579834 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 111.93355917930603 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 113.09286737442017 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 329.2284789085388 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 342.7883110046387 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 715.1174824237823 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 52.95058989524841 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 56.82817840576172 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 58.859803676605225 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 61.6219277381897 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 122.19264650344849 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 127.00677514076233 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 129.88926935195923 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 253.56507301330566 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 469.75836062431335 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 617.5606472492218 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 890.3820893764496 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 47.28299331665039 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 49.64523792266846 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 49.832807540893555 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.14237689971924 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 109.54112601280212 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.54057002067566 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 202.54348611831665 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 306.419233083725 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 398.02725315093994 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 534.2567760944366 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 732.6436545848846 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 47.26387810707092 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 49.518059730529785 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 49.52117919921875 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.22345185279846 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 110.0290641784668 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.64511513710022 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 201.76282620429993 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 310.0333640575409 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 398.7111909389496 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 535.2538726329803 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 735.0070607662201 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 47.50853228569031 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 49.46047925949097 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 49.71753120422363 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.13011717796326 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 110.53416132926941 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 113.2895119190216 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 203.52204847335815 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 307.53103280067444 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 399.63680601119995 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 540.4399812221527 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 727.1932773590088 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 18.97178053855896 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 50.336196184158325 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.366270780563354 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 51.112144947052 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 51.23023700714111 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 105.67633318901062 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 264.3091630935669 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 334.2035620212555 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 473.3734793663025 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 492.7266592979431 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 608.1055359840393 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 47.038992404937744 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 49.47844624519348 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 49.6930992603302 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 49.936413049697876 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 110.9439013004303 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.33433723449707 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 202.56375217437744 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 307.77344250679016 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 401.7775602340698 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 533.4441142082214 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 727.7127034664154 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 18.901468992233276 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 50.089930295944214 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.46749186515808 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 50.7956907749176 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 51.177388191223145 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 104.60668158531189 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 266.4627773761749 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 335.26648569107056 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 481.14562940597534 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 493.2836079597473 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 610.8929102420807 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+Result added to total
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 49.96525311470032 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.29653263092041 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.44956970214844 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 105.09136915206909 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 109.5001654624939 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.6953239440918 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 116.69842624664307 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 148.4024212360382 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 317.1943893432617 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 323.44843077659607 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 501.4719970226288 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 16.177697896957397 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 17.10710048675537 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 48.31257438659668 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 98.82595682144165 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 99.63276481628418 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 105.17183303833008 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 136.70834636688232 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 179.9352674484253 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 190.30037999153137 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 289.23310804367065 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 292.37795853614807 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 49.887850761413574 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.49184823036194 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.58405256271362 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 104.90965032577515 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 111.87495970726013 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.12303161621094 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 115.03104281425476 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 148.531391620636 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 315.52265334129333 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 324.8765766620636 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 502.6766166687012 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 50.029072999954224 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.241063594818115 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.281710624694824 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 104.67401123046875 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 108.89981603622437 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 112.93365550041199 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 114.71991181373596 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 148.3673906326294 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 316.1938154697418 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 322.3178434371948 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 503.4734778404236 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 52.77793836593628 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 57.073490858078 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 59.25115776062012 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 60.6103892326355 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 122.41163301467896 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 126.50123429298401 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 129.74654388427734 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 253.91371083259583 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 374.9412045478821 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 614.7931349277496 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 879.2706863880157 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 31.24049210548401 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 49.434677600860596 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 54.18927001953125 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 108.27839064598083 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 109.14488935470581 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 111.42635321617126 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 113.35762286186218 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 204.2469983100891 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 330.9298710823059 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 620.1032745838165 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 701.5807604789734 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 44.80428719520569 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 45.85780906677246 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 73.92943096160889 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 96.25104594230652 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 100.01855778694153 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 104.04069519042969 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 140.58011746406555 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 190.68734288215637 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 328.9577097892761 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 487.22979831695557 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 496.9189598560333 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 97.84428811073303 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 98.77878260612488 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 101.4699182510376 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 171.7913315296173 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 176.76376128196716 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 185.7855167388916 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 305.3872332572937 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 712.2533223628998 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 719.9752712249756 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 1613.6389939785004 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 1672.8880789279938 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 97.94253444671631 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 98.43977379798889 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 101.9722626209259 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 172.05090522766113 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 177.44117188453674 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 185.5843071937561 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 308.7823693752289 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 713.3716604709625 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 717.7531588077545 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 1592.6805996894836 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 1680.2085800170898 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+31: Timeout
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+31: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 50.357911348342896 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 50.415976762771606 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 50.67186522483826 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 75.04706954956055 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 104.17363929748535 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 108.41694021224976 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 152.3029704093933 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 154.79245233535767 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 191.64677453041077 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 204.80869102478027 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 259.39390087127686 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 97.95168542861938 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 99.2406108379364 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 101.46690368652344 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 171.7253074645996 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 177.10625576972961 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 185.37475204467773 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 308.057820558548 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 710.7455806732178 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 716.6815659999847 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 1598.7348873615265 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 1668.6406757831573 seconds
+Result added to total
+11
+Number args:11
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/72c0d81e16d91bcaed808efcde2e5069-Folkman-175-1251868.sanitized.cnfwas solved after 98.24271607398987 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eed5189b73738270ae3fdb8b33bf31c8-Folkman-180-11710376.sanitized.cnfwas solved after 99.45855069160461 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnfwas solved after 101.54684495925903 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/12b4a08e412a3bffb513ca65639c7c69-Folkman-175-7416734.sanitized.cnfwas solved after 172.35463786125183 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnfwas solved after 176.96512818336487 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/77b7f7bbf75faaee28f473b9941de103-Folkman-185-19924337.sanitized.cnfwas solved after 184.51687598228455 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnfwas solved after 309.04961347579956 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnfwas solved after 711.8742814064026 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e7248b57a310ad461924eb17956cdf3a-Folkman-190-358004741.sanitized.cnfwas solved after 721.0028669834137 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/461df1a7056560279d532bc2743022b6-Folkman-185-75415683.sanitized.cnfwas solved after 1603.2091212272644 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+31: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnfwas solved after 1671.6479041576385 seconds
+Result added to total
+11
+[INFO][smbo.py:320] Finished 50 trials.
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 0,
+  'congruence': 1,
+  'eliminate': 0,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'lucky': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 0,
+  'randec': 1,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 1,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 0,
+})

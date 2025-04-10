@@ -1,0 +1,1953 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf.xz', '/nfs/share/instances/gbd/cnf/63159b6b10c3d6832bd5944e05d78b11-SCPC-700-80.cnf.xz', '/nfs/share/instances/gbd/cnf/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf.xz', '/nfs/share/instances/gbd/cnf/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf.xz', '/nfs/share/instances/gbd/cnf/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz', '/nfs/share/instances/gbd/cnf/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz', '/nfs/share/instances/gbd/cnf/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf.xz', '/nfs/share/instances/gbd/cnf/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf.xz', '/nfs/share/instances/gbd/cnf/af3d5273605b21b9d4c56dd46cbf366a-SCPC-700-82.cnf.xz', '/nfs/share/instances/gbd/cnf/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf.xz', '/nfs/share/instances/gbd/cnf/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf.xz', '/nfs/share/instances/gbd/cnf/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf.xz', '/nfs/share/instances/gbd/cnf/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz', '/nfs/share/instances/gbd/cnf/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz', '/nfs/share/instances/gbd/cnf/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf.xz', '/nfs/share/instances/gbd/cnf/ed76b075cdf07435c6e4f6203dd10cb7-SCPC-700-88.cnf.xz', '/nfs/share/instances/gbd/cnf/eec821f866557886a5b0352332943fa2-SCPC-700-81.cnf.xz', '/nfs/share/instances/gbd/cnf/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz', '/nfs/share/instances/gbd/cnf/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz', '/nfs/share/instances/gbd/cnf/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf.xz']
+Config --backbone=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 131.73216795921326 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 221.24378085136414 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 221.4399631023407 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 227.7744436264038 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 232.90655732154846 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 244.4020893573761 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 245.0061948299408 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 359.82123470306396 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 420.09028244018555 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 441.54253363609314 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 495.3079490661621 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 709.0443665981293 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 763.6059515476227 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 996.309947013855 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--backbone=0 finished with score 9710.227462053299
+Config --backbone=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 131.69264245033264 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 221.3967170715332 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 221.5138382911682 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 227.587495803833 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 232.9976315498352 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 244.2714786529541 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 245.05233883857727 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 359.9755756855011 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 420.1500539779663 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 441.6148557662964 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 495.00090980529785 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 709.5797307491302 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 763.5956547260284 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--backbone=2 finished with score 10714.428923368454
+Config --bump=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 142.39478516578674 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 142.8804166316986 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 235.6730661392212 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 256.1610794067383 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 430.7183880805969 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 495.667916059494 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 512.5635030269623 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 629.4600958824158 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 771.382709980011 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 801.1777062416077 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 833.5401980876923 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 872.0540292263031 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--bump=0 finished with score 14123.673893928528
+Config --chrono=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 112.37300276756287 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 116.45466995239258 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 120.15438985824585 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 216.34161376953125 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 227.28449177742004 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 229.62871861457825 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 233.62578082084656 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 253.1654405593872 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 255.15034317970276 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 406.05819725990295 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 421.85659766197205 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 427.5247678756714 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 443.1624050140381 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 696.1231060028076 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--chrono=0 finished with score 8158.903525114059
+Config --congruence=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 119.6230878829956 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 120.41694021224976 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 121.38267397880554 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 123.41692900657654 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 165.63449668884277 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 230.15396118164062 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 245.68925738334656 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 415.5664839744568 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 424.43895173072815 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 455.2516362667084 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 630.4299712181091 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 693.9497838020325 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 721.0084888935089 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--congruence=0 finished with score 10466.962662220001
+Config --eliminate=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 81.26231956481934 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 84.307363986969 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 133.10826230049133 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 205.55448389053345 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 226.57051062583923 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 260.3482894897461 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 368.2669610977173 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 372.1314570903778 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 383.58346152305603 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 652.9233872890472 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 695.3914706707001 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 772.6659557819366 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--eliminate=0 finished with score 12236.113923311234
+Config --extract=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 129.75572967529297 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 219.0023148059845 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 219.01433658599854 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 225.0281252861023 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 230.3996512889862 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 241.3562207221985 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 242.48234033584595 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 356.67201352119446 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 418.2201464176178 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 438.912255525589 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 492.829571723938 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 705.8740472793579 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 760.384286403656 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 994.3899953365326 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+16
+11:--extract=0 finished with score 9674.321034908295
+Config --factor=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 85.26239275932312 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 150.0983545780182 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 178.5719976425171 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 220.2453215122223 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 227.96082997322083 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 235.9977388381958 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 244.71066427230835 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 245.6166923046112 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 286.87113976478577 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 380.66058897972107 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 390.073605298996 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 420.05401396751404 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 420.5920479297638 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--factor=0 finished with score 9486.715387821198
+Config --fastel=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 54.122652769088745 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 111.81463027000427 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 250.00413990020752 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 276.40324115753174 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 375.24864745140076 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 401.3541522026062 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 409.8151845932007 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 426.20727825164795 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 624.3312349319458 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 687.2068829536438 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 711.0020503997803 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 942.1613161563873 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--fastel=0 finished with score 13269.671411037445
+Config --forward=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 131.5440797805786 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 220.94385933876038 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 220.96635174751282 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 227.42861604690552 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 232.60861086845398 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 243.58727598190308 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 244.3588047027588 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 359.6130361557007 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 421.45424461364746 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 441.4153461456299 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 495.0390877723694 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 708.218017578125 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 763.7401287555695 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 995.4833045005798 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--forward=0 finished with score 9706.400763988495
+Config --lucky=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 104.6198320388794 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 115.58736896514893 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 236.17928838729858 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 241.001389503479 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 387.4834017753601 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 412.7917423248291 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 423.5388813018799 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 430.1335756778717 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 430.9299986362457 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 461.83464765548706 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 713.5986251831055 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 997.9757483005524 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--lucky=0 finished with score 12955.674499750137
+Config --phase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 63.4791784286499 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 130.4435293674469 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 137.58676624298096 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 229.54742765426636 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 245.03667283058167 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 253.8881287574768 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 256.98816871643066 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 266.329252243042 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 404.41422963142395 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 454.64981055259705 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 476.8208703994751 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 498.7365913391113 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 502.4269292354584 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 669.7261147499084 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--phase=0 finished with score 8590.07367014885
+Config --phasesaving=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 102.17620921134949 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 112.27423119544983 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 143.57291436195374 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 212.33228063583374 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 221.51148653030396 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 227.6680498123169 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 237.35973048210144 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 237.7535524368286 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 401.2479546070099 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 407.37029504776 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 407.7219307422638 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 654.1356198787689 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 655.1005973815918 seconds
+Result added to total
+11: Timeout
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--phasesaving=0 finished with score 10020.224852323532
+Config --preprocess=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 59.63585543632507 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 113.84195590019226 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 122.40564203262329 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 176.3680078983307 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 221.873553276062 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 230.22133660316467 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 380.2511739730835 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 391.0738151073456 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 621.9541938304901 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 674.0864198207855 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 685.339873790741 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 691.9892337322235 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+16
+11:--preprocess=0 finished with score 12369.041061401367
+Config --probe=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 99.58976745605469 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 110.43261575698853 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 205.35663509368896 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 209.36886596679688 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 220.4633846282959 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 221.81058931350708 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 231.4759485721588 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 232.8580093383789 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 233.94385623931885 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 275.41689109802246 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 398.30342197418213 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 414.29072093963623 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 481.50638246536255 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--probe=0 finished with score 9334.817088842392
+Config --randec=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 111.24970626831055 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 123.4131088256836 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 223.47832083702087 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 231.64276003837585 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 234.36523127555847 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 235.29543375968933 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 238.8623652458191 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 273.133868932724 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 378.93771982192993 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 651.6275460720062 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 692.9334452152252 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--randec=0 finished with score 13394.939506292343
+Config --reluctant=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 84.50341296195984 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 123.62018537521362 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 127.33569025993347 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 239.20731210708618 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 242.03966331481934 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 255.5704505443573 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 280.2074279785156 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 481.02272725105286 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 722.9038574695587 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 748.499575138092 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 774.0571460723877 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 983.446863412857 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--reluctant=0 finished with score 13062.414311885834
+Config --reorder=1
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 63.39241313934326 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 123.60914325714111 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 228.98283529281616 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 236.99649906158447 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 262.4833312034607 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 266.0287172794342 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 422.3800165653229 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 432.59001421928406 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 433.0582001209259 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 433.2875623703003 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 456.7496905326843 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 459.6650221347809 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 953.3632254600525 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+16
+11:--reorder=1 finished with score 10772.58667063713
+Config --reorder=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 117.29418802261353 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 120.59381127357483 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 174.2422342300415 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 228.84013557434082 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 231.67228817939758 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 240.40713596343994 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 243.07551836967468 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 246.88844799995422 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 248.41237950325012 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 394.3157925605774 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 422.2551484107971 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 426.1200039386749 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 696.0845370292664 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnfwas solved after 895.9389932155609 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 985.4106464385986 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--reorder=0 finished with score 7671.551260709763
+Config --rephase=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+16
+11:--rephase=0 finished with score 32000
+Config --restart=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 139.21316957473755 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 252.16670417785645 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 273.1507601737976 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 284.40740871429443 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 288.6532692909241 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 311.46302795410156 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 489.6502606868744 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 493.2545475959778 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 502.398873090744 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 538.8671586513519 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--restart=0 finished with score 15573.22517991066
+Config --stable=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--stable=0 finished with score 32000
+Config --stable=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 38.33650517463684 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 156.21509718894958 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 263.94253730773926 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 269.5874903202057 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 279.21432518959045 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 284.77109360694885 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 428.6840150356293 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 434.0715730190277 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 437.9648857116699 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 438.0912997722626 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 634.2926228046417 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 687.4873366355896 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 692.3918142318726 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 981.4503314495087 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--stable=2 finished with score 10026.500927448273
+Config --substitute=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 60.06236958503723 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 65.06555318832397 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 119.60900688171387 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 228.98331356048584 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 242.92832350730896 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 267.3422317504883 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 271.17985916137695 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 372.6534516811371 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 380.25304412841797 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 409.53784918785095 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 466.37234568595886 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 511.70911931991577 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnfwas solved after 682.7201905250549 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 702.2878820896149 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--substitute=0 finished with score 8780.704540252686
+Config --sweep=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 128.81846928596497 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 216.95756888389587 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 217.07261490821838 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 223.36931538581848 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 229.56352615356445 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 240.1220724582672 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 241.342027425766 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 348.6806364059448 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 413.8065733909607 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 434.23189902305603 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 487.6101679801941 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 693.3752567768097 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 744.3124392032623 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 981.2393245697021 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--sweep=0 finished with score 9600.501891851425
+Config --target=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 119.25630354881287 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 187.30039882659912 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 221.9981381893158 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 228.63939762115479 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 234.04750514030457 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 347.0057637691498 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 400.41938042640686 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 578.4990837574005 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 597.9125113487244 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 711.5579998493195 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--target=0 finished with score 15626.636482477188
+Config --target=2
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 73.17170858383179 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 99.1450469493866 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 113.03010106086731 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 206.1658537387848 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 233.0776264667511 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 253.90571570396423 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 393.54712653160095 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 404.4822564125061 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 412.24819350242615 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 412.8078262805939 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 415.33897638320923 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 420.7380213737488 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 449.0806863307953 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--target=2 finished with score 9886.739139318466
+Config --transitive=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 131.5126392841339 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 220.79919743537903 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 220.93677139282227 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 227.0531566143036 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 232.18801999092102 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 243.5785436630249 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 244.4459080696106 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 359.3633964061737 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 419.4000265598297 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 440.5593190193176 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 494.150582075119 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 708.5458085536957 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 761.6571366786957 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnfwas solved after 993.8595819473267 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--transitive=0 finished with score 9698.050087690353
+Config --vivify=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 118.60915803909302 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 119.39709186553955 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 125.64577293395996 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnfwas solved after 225.7151801586151 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 229.67770552635193 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 231.32939386367798 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 236.50256156921387 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 242.0605435371399 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 266.85833644866943 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 408.63587975502014 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnfwas solved after 467.55136728286743 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 632.5341141223907 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 697.7447707653046 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--vivify=0 finished with score 10002.261875867844
+Config --warmup=0
+Number args:16
+Starting pool with 16 threads and 16 instances
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnfwas solved after 117.36550521850586 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71758ed7637888d4fd4593ec820677bc-SCPC-800-42.cnfwas solved after 126.0310263633728 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnfwas solved after 228.2767493724823 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/68649ac2830edad5d0dc7e3d13935132-SCPC-800-46.cnfwas solved after 236.882732629776 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d84a89fb1bc1ff37dc4737867257b290-SCPC-800-49.cnfwas solved after 248.32902145385742 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cea96962ebd736646af54d950943d909-SCPC-800-41.cnfwas solved after 251.16992592811584 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1a40d2d8c589799a0d267cae03fcd4c5-SCPC-800-40.cnfwas solved after 322.24359154701233 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1324a6876269ee93890e266fe214557-SCPC-800-50.cnfwas solved after 428.8796422481537 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/faeb113864d97ea4cb3f01f95d2fe92f-SCPC-800-44.cnfwas solved after 623.2516181468964 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bca01a49805df3399a0438191019e417-SCPC-700-87.cnfwas solved after 665.1032528877258 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnfwas solved after 714.9121775627136 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnfwas solved after 947.358359336853 seconds
+Result added to total
+Process exited with expected code 10, no error: 
+11: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a18b6fbdfee43c007e07dedf15477797-SCPC-700-86.cnfwas solved after 985.0962073802948 seconds
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf has reached timeout, punishment 10000 seconds
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a4941208671f6ebfd118e4e563538c31-SCPC-1000-20.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+11: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c0069efa0c924e416878d9426f1ef92e-SCPC-900-29.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+16
+11:--warmup=0 finished with score 11894.89981007576
