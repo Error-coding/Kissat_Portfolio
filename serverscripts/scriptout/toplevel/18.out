@@ -1,0 +1,322 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0945c95ba9b82c32d12fc9d9e5229c5a-SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/096ac97e4261eabca440fc7bc135d7c0-SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/177a4ad8fd76ad8240387998112c3168-SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/2537f10a45d7ab430334dc1de6bfbdf0-SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/2b7e863462991fd008f9898eca63ebf4-SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/323223c497a22051f5a3ef508ccbaa7c-SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/3e7dc7350195104b76b7d03ab5b0af8f-SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/8751f8d1570611ba079dfd862b14c514-SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/97a17306a2882e0fd1aa3981a267df0d-SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/9e18c079efdc17ceade5c7a330b507d2-SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/b5cede38496a803dcfa155a5f4295c47-SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/bcd753d08904860fa93a794557185e04-SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/d5efaaee0197822c2676e45bac5068b2-SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/d8f131a86243ef138af39abf52a479e5-SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/e966bddd11e46b735f8520f8304e368e-SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf.xz', '/nfs/share/instances/gbd/cnf/f20c2aa0f9cced05a74031e0a3afaa1a-SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b7e863462991fd008f9898eca63ebf4-SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e966bddd11e46b735f8520f8304e368e-SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/323223c497a22051f5a3ef508ccbaa7c-SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b5cede38496a803dcfa155a5f4295c47-SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/97a17306a2882e0fd1aa3981a267df0d-SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8f131a86243ef138af39abf52a479e5-SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3e7dc7350195104b76b7d03ab5b0af8f-SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096ac97e4261eabca440fc7bc135d7c0-SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bcd753d08904860fa93a794557185e04-SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f20c2aa0f9cced05a74031e0a3afaa1a-SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8751f8d1570611ba079dfd862b14c514-SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/177a4ad8fd76ad8240387998112c3168-SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e18c079efdc17ceade5c7a330b507d2-SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2537f10a45d7ab430334dc1de6bfbdf0-SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d5efaaee0197822c2676e45bac5068b2-SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0945c95ba9b82c32d12fc9d9e5229c5a-SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf
+Timeout
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b7e863462991fd008f9898eca63ebf4-SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e966bddd11e46b735f8520f8304e368e-SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/323223c497a22051f5a3ef508ccbaa7c-SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b5cede38496a803dcfa155a5f4295c47-SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/97a17306a2882e0fd1aa3981a267df0d-SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8f131a86243ef138af39abf52a479e5-SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3e7dc7350195104b76b7d03ab5b0af8f-SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096ac97e4261eabca440fc7bc135d7c0-SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bcd753d08904860fa93a794557185e04-SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f20c2aa0f9cced05a74031e0a3afaa1a-SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8751f8d1570611ba079dfd862b14c514-SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/177a4ad8fd76ad8240387998112c3168-SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e18c079efdc17ceade5c7a330b507d2-SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2537f10a45d7ab430334dc1de6bfbdf0-SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d5efaaee0197822c2676e45bac5068b2-SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0945c95ba9b82c32d12fc9d9e5229c5a-SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 17043,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 784,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 2,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 2,
+  'tier1': 45,
+  'tier1relative': 881,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnffinished after 12.263646602630615 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnffinished after 12.407793045043945 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnffinished after 9.432546854019165 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b7e863462991fd008f9898eca63ebf4-SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b7e863462991fd008f9898eca63ebf4-SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnffinished after 47.816060304641724 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e966bddd11e46b735f8520f8304e368e-SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e966bddd11e46b735f8520f8304e368e-SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnffinished after 10.739400148391724 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/323223c497a22051f5a3ef508ccbaa7c-SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/323223c497a22051f5a3ef508ccbaa7c-SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnffinished after 12.553843021392822 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b5cede38496a803dcfa155a5f4295c47-SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b5cede38496a803dcfa155a5f4295c47-SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnffinished after 11.740829229354858 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/97a17306a2882e0fd1aa3981a267df0d-SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8f131a86243ef138af39abf52a479e5-SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8f131a86243ef138af39abf52a479e5-SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnffinished after 10.948535680770874 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3e7dc7350195104b76b7d03ab5b0af8f-SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3e7dc7350195104b76b7d03ab5b0af8f-SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnffinished after 101.68878436088562 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096ac97e4261eabca440fc7bc135d7c0-SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096ac97e4261eabca440fc7bc135d7c0-SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnffinished after 230.18051528930664 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bcd753d08904860fa93a794557185e04-SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bcd753d08904860fa93a794557185e04-SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnffinished after 3727.1463735103607 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f20c2aa0f9cced05a74031e0a3afaa1a-SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f20c2aa0f9cced05a74031e0a3afaa1a-SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnffinished after 10.367041110992432 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8751f8d1570611ba079dfd862b14c514-SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8751f8d1570611ba079dfd862b14c514-SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnffinished after 10.462239980697632 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/177a4ad8fd76ad8240387998112c3168-SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/177a4ad8fd76ad8240387998112c3168-SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnffinished after 32.038310289382935 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e18c079efdc17ceade5c7a330b507d2-SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e18c079efdc17ceade5c7a330b507d2-SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnffinished after 9.809135437011719 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2537f10a45d7ab430334dc1de6bfbdf0-SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2537f10a45d7ab430334dc1de6bfbdf0-SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnffinished after 17.94357657432556 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d5efaaee0197822c2676e45bac5068b2-SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d5efaaee0197822c2676e45bac5068b2-SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnffinished after 13.155011653900146 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0945c95ba9b82c32d12fc9d9e5229c5a-SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf
+Timeout
+[INFO][abstract_intensifier.py:595] Added config e182ac and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 470119,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 0,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 854,
+  'reducelow': 858,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 85,
+  'tier1relative': 790,
+  'tier2': 494,
+  'tier2relative': 551,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/33cfa309d10e1d4fe30f1302807f42ce-SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/35b19a3332597c1e5a3668f75ca72971-SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/83cf6bfa7945b54e8c4ac659d1a4359e-SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf

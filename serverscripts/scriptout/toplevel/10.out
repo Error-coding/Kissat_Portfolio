@@ -1,0 +1,657 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf.xz', '/nfs/share/instances/gbd/cnf/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 891068,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 911,
+  'reducelow': 134,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 1,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 28,
+  'tier1relative': 270,
+  'tier2': 987,
+  'tier2relative': 455,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 373435,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 388,
+  'reducelow': 873,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 0,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 34,
+  'tier1relative': 10,
+  'tier2': 712,
+  'tier2relative': 828,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 61895,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 784,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 2,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 47,
+  'tier1relative': 955,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+[INFO][abstract_intensifier.py:595] Added config 77fc06 and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 160126,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 215,
+  'reducelow': 812,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 2,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 0,
+  'tier1': 49,
+  'tier1relative': 377,
+  'tier2': 228,
+  'tier2relative': 450,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 2,
+  'eliminate': 0,
+  'emafast': 47343,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 448,
+  'reducelow': 320,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 0,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 30,
+  'tier1relative': 796,
+  'tier2': 541,
+  'tier2relative': 84,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b157aeb75aec9158fed9e16d7fd2da57-ContextModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/deef4e5f8bf88393cea9589dff97d70c-ContextModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7dc81d3cb9066f8bc06ceffbca237572-TableModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/10196804504080e7107809a2e5b3bfcc-ContextModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/428da12ab8f5f68ae261e6468c2fef73-TableSymModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f57aba96bfed8f8a8b860eba1a8f1ea5-TableModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8bcd3f3e269fa3c9516667b626d61602-TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5918f1624d4dfd964227356786a4e9ec-ContextModel_output_8_4_9.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4a6a797c6b4a8055d10b74edda9a5e30-TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/af5838e83024d2dee3942be8d8e35fec-TableModel_output_8_4_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/00b46ace235e3915a439c77a231a5657-TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 628120,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 93,
+  'reducelow': 953,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 2,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 0,
+  'tier1': 44,
+  'tier1relative': 236,
+  'tier2': 640,
+  'tier2relative': 691,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7d58f2f0c79cbcad0496ced184ba0680-TableSymModel_output_6_3_8.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8b797110ff321ee673eab1542069f192-ContextModel_output_8_4_10.bul.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f26f199564d6ffac7e700c2e66470ec0-TableSymModel_output_6_4_6.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d31ec9edeac705ffd1b23f0cc4f3256-ContextModel_output_7_3_9.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/71cf538aa0751d27f144de9c8d82e458-TableModel_output_8_3_10.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a811388cc92def6ef2d639dc062d456c-ContextModel_output_6_3_8.bul_.dimacs.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ce0cff914efdc48f2a8fe86b5c68c6-TableModel_output_8_4_7.bul_.dimacs.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a98d77ba9d3fbe8b7c55cbf75b2b43a8-TableModel_output_6_3_8.bul_.dimacs.cnf

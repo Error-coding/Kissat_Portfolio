@@ -1,0 +1,229 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf.xz', '/nfs/share/instances/gbd/cnf/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf.xz', '/nfs/share/instances/gbd/cnf/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf.xz', '/nfs/share/instances/gbd/cnf/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf.xz', '/nfs/share/instances/gbd/cnf/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf.xz', '/nfs/share/instances/gbd/cnf/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf.xz', '/nfs/share/instances/gbd/cnf/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf.xz', '/nfs/share/instances/gbd/cnf/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf.xz', '/nfs/share/instances/gbd/cnf/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf.xz', '/nfs/share/instances/gbd/cnf/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf.xz', '/nfs/share/instances/gbd/cnf/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf.xz', '/nfs/share/instances/gbd/cnf/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf.xz', '/nfs/share/instances/gbd/cnf/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf.xz', '/nfs/share/instances/gbd/cnf/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf.xz', '/nfs/share/instances/gbd/cnf/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 15 instances
+Worst case runtime for this iteration is 75000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnffinished after 98.12885046005249 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnffinished after 85.4251971244812 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnffinished after 38.75544452667236 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnffinished after 167.36901783943176 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnffinished after 117.32951593399048 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnffinished after 1008.5483655929565 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnffinished after 160.9289093017578 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnffinished after 653.8868134021759 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnffinished after 68.10783338546753 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnffinished after 327.62537717819214 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnffinished after 130.48588299751282 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnffinished after 104.61617016792297 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnffinished after 174.5548539161682 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnffinished after 551.7212829589844 seconds
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 15 instances
+Worst case runtime for this iteration is 75000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnffinished after 109.95834994316101 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnffinished after 23.372685194015503 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c21cea390a50204944aa00babd56b53c-linked_list_swap_contents_safety_unwind70.cnffinished after 175.75000715255737 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/44fd38bd0c5fc7336be468161dee4eda-post-cbmc-aes-ee-r3-noholes.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e8abb9c83efdd96a99990f3b914ea873-linked_list_swap_contents_safety_unwind57.cnffinished after 4131.528883457184 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/25cc054738293c0d9377d7b72b78a341-string_compare_safety_cbmc_unwinding_900.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c8b129b9e4835b8a40d5ef0d27a45bef-linked_list_swap_contents_safety_unwind78.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c03f7f84f6ac9e523c17e391c3895183-linked_list_swap_contents_safety_unwind68.cnffinished after 4811.157189369202 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f54b352934be08821aa75b3424112956-linked_list_swap_contents_safety_unwind54.cnffinished after 65.35132145881653 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0f262afd5b117000f8b4734d175aadab-linked_list_swap_contents_safety_unwind73.cnffinished after 153.55135941505432 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/573cc82ec61e01fd6e6308493ee56289-linked_list_swap_contents_safety_unwind80.cnffinished after 1953.0270652770996 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0d3160b80aa406bfc718c007265b9e73-linked_list_swap_contents_safety_unwind65.cnffinished after 4637.04140663147 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6008b958ff6877f32c26b72728df4523-linked_list_swap_contents_safety_unwind76.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/02f6ca52f1ada872d82035088701b66a-linked_list_swap_contents_safety_unwind69.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 891068,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 911,
+  'reducelow': 134,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 1,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 28,
+  'tier1relative': 270,
+  'tier2': 987,
+  'tier2relative': 455,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 15 instances
+Worst case runtime for this iteration is 75000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e0da402100982e53001a64281149dd9-linked_list_swap_contents_safety_unwind63.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/aaa3654cc92d80da84ecf5d18040c634-linked_list_swap_contents_safety_unwind62.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/878bcc11e1e243680f7946bcf428f465-linked_list_swap_contents_safety_unwind45.cnf

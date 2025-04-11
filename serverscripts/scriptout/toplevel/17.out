@@ -1,0 +1,466 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf.xz', '/nfs/share/instances/gbd/cnf/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf.xz', '/nfs/share/instances/gbd/cnf/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnf.xz', '/nfs/share/instances/gbd/cnf/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf.xz', '/nfs/share/instances/gbd/cnf/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf.xz', '/nfs/share/instances/gbd/cnf/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf.xz', '/nfs/share/instances/gbd/cnf/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf.xz', '/nfs/share/instances/gbd/cnf/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/c7bf3517f47d583ae567de3db3708969-oisc-subrv-and-nested-14.cnf.xz', '/nfs/share/instances/gbd/cnf/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf.xz', '/nfs/share/instances/gbd/cnf/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnffinished after 15.81746792793274 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnffinished after 576.5571928024292 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnffinished after 37.39533853530884 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnffinished after 19.300487756729126 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnffinished after 289.7905943393707 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnffinished after 60.21826457977295 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnffinished after 35.056315898895264 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c7bf3517f47d583ae567de3db3708969-oisc-subrv-and-nested-14.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnffinished after 14.798667669296265 seconds
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnffinished after 40.823992013931274 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnffinished after 1759.987776517868 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnffinished after 904.5534391403198 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnffinished after 1033.572224855423 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnffinished after 64.57861375808716 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnffinished after 12.343207359313965 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnffinished after 12.117900609970093 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnffinished after 2006.7030143737793 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnffinished after 179.62990951538086 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnffinished after 13.93510890007019 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnffinished after 410.4399468898773 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnffinished after 610.2973344326019 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c7bf3517f47d583ae567de3db3708969-oisc-subrv-and-nested-14.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnffinished after 11.926926851272583 seconds
+[INFO][abstract_intensifier.py:595] Added config cf0a0e and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 710467,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 21,
+  'reducelow': 502,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 48,
+  'tier1relative': 584,
+  'tier2': 515,
+  'tier2relative': 428,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnffinished after 21.047385692596436 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnffinished after 2613.4418601989746 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnffinished after 1355.1526951789856 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnffinished after 1037.4463894367218 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnffinished after 28.037684679031372 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnffinished after 11.978925943374634 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnffinished after 8.399831295013428 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnffinished after 129.60271048545837 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnffinished after 5.94565486907959 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnffinished after 13.348212718963623 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnffinished after 1667.2439994812012 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnffinished after 782.6905493736267 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnffinished after 2241.5810594558716 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c7bf3517f47d583ae567de3db3708969-oisc-subrv-and-nested-14.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnffinished after 11.301380157470703 seconds
+[INFO][abstract_intensifier.py:595] Added config 01564a and rejected config cf0a0e as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 607359,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 17,
+  'reducelow': 39,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 2,
+  'tier1': 88,
+  'tier1relative': 394,
+  'tier2': 505,
+  'tier2relative': 707,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnffinished after 18.403616189956665 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnffinished after 3227.9896285533905 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnffinished after 7.63147234916687 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnffinished after 43.75472640991211 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnffinished after 32.89025330543518 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnffinished after 15.787269830703735 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnffinished after 183.5980794429779 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnffinished after 4.665252923965454 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnffinished after 33.943299293518066 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnffinished after 201.95360898971558 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnffinished after 1847.4991965293884 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2e808d215e4155379a847b146ef38b34-goldcrest-and-16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c7bf3517f47d583ae567de3db3708969-oisc-subrv-and-nested-14.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnffinished after 17.566586017608643 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 894425,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 461,
+  'reducelow': 49,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 60,
+  'tier1relative': 630,
+  'tier2': 919,
+  'tier2relative': 509,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4282ea42fd414bfd2c4bf81fe8a43e24-DivU_1520_10.cnf.sanitized.cnffinished after 628.0245921611786 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/48539e7e4baae6db72cda7e8a9cecfa0-oisc-subrv-sll-nested-15.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/63732c330adb8de8dd47ce1693b86d0e-FmlaEquivChain_4_8_8.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/328da7966b09b2f6e99c93c4e877fbff-sgen3-n260-s62321009-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ee57608ea4b74f25aebca809d59711c9-oisc-subrv-sll-nested-13.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9cd3acdb765c15163bc239ae3a57f880-FmlaEquivChain_4_6_6.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/74931e82fd208ed949fa44bccd80df6b-DivS_862_11.cnf.sanitized.cnffinished after 1765.2996776103973 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/da43a3ef0ef5d34143e765d480dedc7a-DivU_624_11.cnf.sanitized.cnffinished after 946.4127969741821 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5411047bc24f4321f0e490e01e4a0910-goldcrest-and-9.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/26114429758a203d651f4df87c94de4c-sgen1-unsat-97-100.cnf.mis-72.debugged.cnffinished after 4.370922327041626 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/accf33a84bdf211bebbd2111fb7f6b91-DivS_942_11.cnf.sanitized.cnffinished after 1599.6011142730713 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f18c7c7b8666458fd04ea7a253ae1e20-FmlaImplyChain_3_7_7.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6543793076c30fc7cdfa5a3c819cedc7-oisc-subrv-sll-nested-11.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2b60f9be1439f63b7f174c6b8ca7fedf-sgen1-unsat-121-100.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8d2dfc50c1759dc11a6564d5c368c6df-FmlaImplyChain_3_7_8.sanitized.cnf

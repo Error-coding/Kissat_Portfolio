@@ -1,0 +1,53 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/0eb98926b26343d31954169dfbde2b24-satcoin-genesis-UNSAT-11900.cnf.xz', '/nfs/share/instances/gbd/cnf/14a5ff0d6213dcfe182ec656764bbdfb-satcoin-genesis-UNSAT-9080.cnf.xz', '/nfs/share/instances/gbd/cnf/21667cf04beae213adbab0d48408a7e4-satcoin-genesis-UNSAT-10600.cnf.xz', '/nfs/share/instances/gbd/cnf/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf.xz', '/nfs/share/instances/gbd/cnf/4e64ffc14db014d5591f40865376c32a-satcoin-genesis-UNSAT-7200.cnf.xz', '/nfs/share/instances/gbd/cnf/524848d379582b63060ed43d3729b9f3-satcoin-genesis-UNSAT-19500.cnf.xz', '/nfs/share/instances/gbd/cnf/53799aafcd0c684a2adc79400bd35f82-satcoin-genesis-UNSAT-5920.cnf.xz', '/nfs/share/instances/gbd/cnf/5437ba8972228ea5531a69a9aa064acc-satcoin-genesis-UNSAT-19800.cnf.xz', '/nfs/share/instances/gbd/cnf/6bb485770dbc3943ea84933a03131958-satcoin-genesis-UNSAT-18600.cnf.xz', '/nfs/share/instances/gbd/cnf/85240babab8083e1b381e2971d875ab8-satcoin-genesis-UNSAT-17800.cnf.xz', '/nfs/share/instances/gbd/cnf/8a7a61a63a718e4dc5aba5426b31c063-satcoin-genesis-UNSAT-18400.cnf.xz', '/nfs/share/instances/gbd/cnf/8e30bfdb721ca0a20031c79a76f9aa7c-satcoin-genesis-UNSAT-18800.cnf.xz', '/nfs/share/instances/gbd/cnf/8f7cd9fb4b8852fdf9a21c606724c71a-satcoin-genesis-UNSAT-12300.cnf.xz', '/nfs/share/instances/gbd/cnf/bab57c8799cb05c8c1757c60d4ebdefd-satcoin-genesis-UNSAT-17400.cnf.xz', '/nfs/share/instances/gbd/cnf/e51a98d78f61103e0672579e87cfd7e5-satcoin-genesis-UNSAT-11400.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 15 instances
+Worst case runtime for this iteration is 75000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/361290e60ab2a8ea9dccfcff65bf0778-satcoin-genesis-UNSAT-9880.cnf

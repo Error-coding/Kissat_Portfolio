@@ -1,0 +1,2633 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf.xz']
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 260 to 12 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 12 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 6.7448930740356445 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 71.11411499977112 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 73.36530780792236 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 84.33144307136536 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 106.33454489707947 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 145.32418131828308 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 198.55258750915527 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 572.578816652298 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 573.6162400245667 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 752.7155437469482 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:516] Added config 23ffcf as new incumbent because there are no incumbents yet.
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 8.18371868133545 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 70.82499861717224 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 81.66125011444092 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 88.13207125663757 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 139.6764895915985 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 165.9625768661499 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 253.98239755630493 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 445.9279136657715 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 473.2902913093567 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 520.2632751464844 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config e6b292 and rejected config 23ffcf as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 47.74375629425049 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 1231.7854540348053 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 1357.228815793991 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 82.83639335632324 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 85.93446707725525 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 106.91323328018188 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 148.8339068889618 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 185.315979719162 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 212.43010783195496 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 678.788952589035 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 779.7120327949524 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 839.9400248527527 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 625.1516752243042 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 641.9233872890472 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 659.703608751297 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 745.78000831604 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 821.9319479465485 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 1614.6957409381866 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 52.62276601791382 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 72.59140205383301 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 73.45866870880127 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 130.7775890827179 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 140.09208297729492 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 220.279114484787 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 367.0737843513489 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 371.74332213401794 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 386.3462641239166 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 518.4985959529877 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 238.34862208366394 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 900.0644583702087 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 1259.000295162201 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 1329.346831560135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 1350.6637976169586 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 1796.3951137065887 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 15.145969152450562 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 88.55032896995544 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 95.37804532051086 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 115.10823464393616 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 139.46650624275208 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 149.6323082447052 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 246.24391889572144 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 486.7874038219452 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 575.6473963260651 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 590.7274196147919 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 40.2396183013916 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 1694.525583744049 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 95.39469599723816 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 101.30544543266296 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 130.13435006141663 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 147.64198756217957 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 173.43730092048645 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 200.29281306266785 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 604.2064352035522 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 992.2332346439362 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 1210.655764579773 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 24.271244525909424 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 72.69583892822266 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 92.21566367149353 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 115.38723826408386 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 141.59384512901306 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 154.83645057678223 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 197.05405640602112 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 353.7746684551239 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 679.2529518604279 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 782.350056886673 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 10.20736312866211 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 58.542932987213135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 118.80265212059021 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 128.57725930213928 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 145.65185642242432 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 276.68556928634644 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 403.7061960697174 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 431.5878643989563 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 432.1950857639313 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 1430.25049161911 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 9.775256872177124 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 58.84358549118042 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 65.51024961471558 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 70.65884566307068 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 150.89059495925903 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 173.90163564682007 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 216.66349005699158 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 346.8330738544464 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 430.9035427570343 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 504.1941485404968 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config 367569 and rejected config e6b292 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 46.90455412864685 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 49.2838032245636 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 53.35498785972595 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 102.62084794044495 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 119.83005046844482 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 144.51504158973694 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 244.73018741607666 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 276.4059762954712 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 282.72880268096924 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 301.6232647895813 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config d250f2 and rejected config 367569 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 10.674390077590942 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 60.389426469802856 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 74.77252006530762 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 93.30177474021912 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 101.43107509613037 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 111.53697371482849 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 122.60026979446411 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 293.02285981178284 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 467.06935811042786 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 539.0374441146851 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 7.5334742069244385 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 51.01668357849121 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 59.993706464767456 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 60.99989366531372 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 81.57781887054443 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 92.74594831466675 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 126.15628719329834 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 261.6981921195984 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 344.6295187473297 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 396.0176372528076 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config 99f863 and rejected config d250f2 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 10.224638223648071 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 60.84027886390686 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 74.85192465782166 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 92.8299994468689 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 103.32932114601135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 113.4096462726593 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 123.11646747589111 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 298.9231903553009 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 473.99797797203064 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 530.8444378376007 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 26.366941928863525 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 54.024824142456055 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 54.8698844909668 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 79.5359890460968 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 86.7580213546753 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 104.34120440483093 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 148.95521545410156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 282.81476616859436 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 327.60265374183655 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 413.8280930519104 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 3.1347923278808594 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 83.10751152038574 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 96.14204216003418 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 109.42062306404114 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 152.99533677101135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 162.68145966529846 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 174.73259115219116 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 386.7395272254944 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 519.5962302684784 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 527.4880919456482 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 11.806455373764038 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 53.936915159225464 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 59.2410192489624 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 88.26923871040344 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 97.21813440322876 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 112.8170518875122 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 132.786066532135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 373.47820115089417 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 424.9837284088135 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 445.74933314323425 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 86.50469493865967 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 102.96869015693665 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 127.26514720916748 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 215.59185600280762 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 257.6285057067871 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 312.88019609451294 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 725.5407071113586 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 896.6093094348907 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 942.8248188495636 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 106.09339880943298 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 144.73065662384033 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 196.18761944770813 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 220.9998733997345 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 233.74382400512695 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 302.9211640357971 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 794.6052353382111 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 885.3514869213104 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 1329.4638166427612 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 1.2321515083312988 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 51.15825152397156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 51.456156492233276 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 65.69064092636108 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 85.87949323654175 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 102.94142293930054 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 121.63540387153625 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 236.21230936050415 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 336.1501839160919 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 365.64827585220337 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config 84e05e and rejected config 99f863 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 7.620439291000366 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 51.35490942001343 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 60.8344202041626 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 61.276965618133545 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 81.22302579879761 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 92.74379205703735 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 126.58187556266785 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 261.1878092288971 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 343.0131103992462 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 404.8758804798126 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 89.53213453292847 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 100.82239365577698 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 127.08791089057922 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 129.67834329605103 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 138.89973282814026 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 168.15121746063232 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 183.6802430152893 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 415.36510467529297 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 739.4629347324371 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 803.7075333595276 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 5.736582040786743 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 59.03293800354004 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 61.631596088409424 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 75.39462208747864 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 81.41677045822144 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 96.09040760993958 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 132.62453961372375 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 365.29183626174927 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 387.3612596988678 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 531.8840591907501 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 12.678951978683472 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 78.2985851764679 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 110.5096549987793 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 112.10685348510742 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 136.47159957885742 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 168.91397356987 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 250.36355829238892 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 410.4447457790375 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 446.99380826950073 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 785.9785943031311 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 21.078803300857544 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 58.85982942581177 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 76.88006162643433 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 106.8602945804596 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 107.06914138793945 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 126.30014657974243 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 156.00910234451294 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 300.9890863895416 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 487.5302484035492 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 603.4319124221802 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 15.392729997634888 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 59.87178921699524 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 75.57707095146179 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 99.18760466575623 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 128.94854927062988 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 131.1680943965912 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 153.498051404953 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 318.509361743927 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 459.70433831214905 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 572.7374088764191 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 39.869773864746094 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 60.81034779548645 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 72.47275066375732 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 99.54564905166626 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 103.46847105026245 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 105.2562050819397 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 166.54655385017395 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 353.3054721355438 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 556.5958781242371 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 576.8028364181519 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 5.734652757644653 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 62.474958658218384 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 81.2179172039032 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 103.39361906051636 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 103.70271944999695 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 118.60193037986755 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 157.98060607910156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 357.80194783210754 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 569.4697935581207 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 608.4504382610321 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 2.824364185333252 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 57.60954475402832 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 80.70489311218262 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 98.45532727241516 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 109.38037085533142 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 135.36581754684448 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 151.69067525863647 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 356.16777634620667 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 557.7619247436523 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 661.0495185852051 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 63.24581980705261 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 66.70243954658508 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 73.08216381072998 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 92.23597264289856 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 104.9848964214325 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 113.14124822616577 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 185.08901715278625 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 419.49469113349915 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 532.2727437019348 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 580.488885641098 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 4.909956693649292 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 53.25192213058472 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 64.8629879951477 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 94.02682185173035 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 95.33522510528564 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 96.19143962860107 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 120.49711871147156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 288.3067524433136 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 445.968834400177 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 501.2119469642639 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 17.51602792739868 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 57.11617136001587 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 58.96329736709595 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 68.99554228782654 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 104.6227674484253 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 117.46374797821045 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 138.63183689117432 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 306.9248080253601 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 316.87283754348755 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 412.0421154499054 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 482.79669666290283 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 1152.0829093456268 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 1483.647784948349 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 1644.595079421997 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+34: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 3.457753896713257 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 53.62204837799072 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 60.291748046875 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 68.04475450515747 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 86.38694500923157 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 91.29857802391052 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 138.8520700931549 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 234.2746286392212 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 248.52272081375122 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 454.7877109050751 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 4.464123964309692 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 58.61286640167236 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 67.69323754310608 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 83.21367764472961 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 120.85564970970154 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 122.57834506034851 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 197.56180834770203 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 321.98671793937683 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 450.4930474758148 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 511.520033121109 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 3.894334077835083 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 66.93521690368652 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 67.97929835319519 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 68.56156182289124 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 111.02821779251099 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 144.79192805290222 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 172.68978452682495 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 337.56759786605835 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 379.7636079788208 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 394.93057203292847 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 7.449936866760254 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 51.32825970649719 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 58.732683181762695 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 60.320637941360474 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 82.56154990196228 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 92.70879220962524 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 126.37454724311829 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 263.2603988647461 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 337.11272716522217 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 398.56736755371094 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 5.580238342285156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 65.9589512348175 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 66.0849781036377 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 81.05571389198303 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 124.66780233383179 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 129.8733949661255 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 210.70224118232727 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 322.20632553100586 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 495.3152029514313 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 573.7629313468933 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 5.53979754447937 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 39.54130816459656 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 45.82593894004822 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 46.2901291847229 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 87.61788201332092 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 107.19726514816284 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 137.48226189613342 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 268.23102021217346 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 351.3549201488495 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 360.15586519241333 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 6.516158580780029 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 75.6723952293396 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 85.68999552726746 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 94.43830680847168 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 146.5088131427765 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 147.13842344284058 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 272.6403875350952 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 589.7153232097626 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 622.9599652290344 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 703.618777513504 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 1.7229888439178467 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 41.66675567626953 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 42.451855182647705 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 45.40227651596069 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 91.28950786590576 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 91.53439235687256 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 129.881831407547 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 213.25379037857056 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 235.727459192276 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 285.36316680908203 seconds
+Result added to total
+10
+[INFO][abstract_intensifier.py:595] Added config b00d1d and rejected config 84e05e as incumbent because it is not better than the incumbents on 1 instances:
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 1.5215260982513428 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 40.09212875366211 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 42.06658411026001 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 60.55094289779663 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 75.52136421203613 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 86.08624029159546 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 130.97454285621643 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 274.5017364025116 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 311.6880478858948 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 384.5557177066803 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 24.941715717315674 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 123.06776905059814 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 126.91101121902466 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 209.6012077331543 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 216.93696546554565 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 359.4287555217743 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 370.36033177375793 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 823.208331823349 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 980.4932897090912 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 1070.5665218830109 seconds
+Result added to total
+10
+Number args:10
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8e720686372c5037f30b4fc7b1c71d48-constraints_17_0.4_1.sanitized.cnfwas solved after 1.8371622562408447 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb0e505b8bd19a34f1f80b8e020e7856-constraints_17_0.4_2.sanitized.cnfwas solved after 35.27046847343445 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b4b41b2ff14427e5715cb9bee06d4602-constraints_17_0.3_2.sanitized.cnfwas solved after 35.55116057395935 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f8443057c188f6c9cfb711ff3d4aa6ff-constraints_17_0.5_2.sanitized.cnfwas solved after 49.6290488243103 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8530c911b75ab1b276042043d118a875-constraints_16_0.4_1.sanitized.cnfwas solved after 77.39976191520691 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6add7e416c1126607afeb2666af330ac-constraints_16_0.5_1.sanitized.cnfwas solved after 87.67783093452454 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb51311320bb42bdb893249998a77f40-constraints_16_0.3_1.sanitized.cnfwas solved after 112.75979256629944 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/61069e0e3339af80000b774a041b7d96-constraints_18_0.3_2.sanitized.cnfwas solved after 246.74953269958496 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/479b1413f8bd1d6fc0723856ffca9792-constraints_18_0.4_2.sanitized.cnfwas solved after 307.178014755249 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+34: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/761651d4b6454108403bdefe22720fb3-constraints_18_0.5_2.sanitized.cnfwas solved after 359.4995627403259 seconds
+Result added to total
+10
+[INFO][smbo.py:320] Finished 50 trials.
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eliminate': 1,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 0,
+  'lucky': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 1,
+  'randec': 0,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 0,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 0,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 0,
+})

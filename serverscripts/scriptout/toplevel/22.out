@@ -1,0 +1,175 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf.xz', '/nfs/share/instances/gbd/cnf/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf.xz', '/nfs/share/instances/gbd/cnf/1d1af993697599892804df5878d58979-brent_69_0.cnf.xz', '/nfs/share/instances/gbd/cnf/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf.xz', '/nfs/share/instances/gbd/cnf/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf.xz', '/nfs/share/instances/gbd/cnf/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf.xz', '/nfs/share/instances/gbd/cnf/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf.xz', '/nfs/share/instances/gbd/cnf/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf.xz', '/nfs/share/instances/gbd/cnf/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf.xz', '/nfs/share/instances/gbd/cnf/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf.xz', '/nfs/share/instances/gbd/cnf/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf.xz', '/nfs/share/instances/gbd/cnf/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf.xz', '/nfs/share/instances/gbd/cnf/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf.xz', '/nfs/share/instances/gbd/cnf/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf.xz', '/nfs/share/instances/gbd/cnf/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c9f7ca549a6773bea4628e2c66f597c6-brent_51_0.17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1d1af993697599892804df5878d58979-brent_69_0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/eca3692344e30ae83a49158b5baf3372-brent_65_0.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/18babbd2835b8a37c6299f8b0301c7c9-brent_67_0.05.cnf
+Timeout
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 19 instances
+Worst case runtime for this iteration is 95000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e9cae5108bd423666c73aaace197769-brent_51_0.28.cnffinished after 98.9421911239624 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/82fe0a5b2467d6e5299c315da8b16ec5-brent_51_0.07.cnffinished after 0.04839158058166504 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ade10da9731ce31d103c1687ff40a3d-brent_63_0.15.cnffinished after 0.05399751663208008 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41c39c9a2d75ca50b603ea7c3d86106a-brent_63_0.cnffinished after 0.06501364707946777 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f08b3567642ea029452fff2c1d10c132-brent_15_0.25.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4fd2e4e6ecb4fe8d3f9e1fda81633469-brent_69_0.05.cnffinished after 0.07043719291687012 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d89718e39ff99638c2882b47988120cd-brent_63_0.1.cnffinished after 0.05779695510864258 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c115ebeec47bb82fa7f9850a632ec94a-brent_71_0.25.cnffinished after 0.07347416877746582 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/f0895a5904fb97278b7b54733ee1dabb-brent_63_0.22.cnffinished after 0.054097890853881836 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8403d03df1ce64af3bf7581449d320fb-brent_63_0.26.cnffinished after 0.05105137825012207 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1932e1e8f0c78372759909e45a19ecc7-brent_69_0.3.cnffinished after 0.055809974670410156 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d8fa4265b93d0931ba6484e3cc0d7ab1-brent_13_0.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fab0db1ab0dd5baa3215aab51ab69355-brent_63_0.2.cnffinished after 0.0555424690246582 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/96e01064ac3b644143278c21859e201f-brent_51_0.29.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/19c6a29181bee2f3aa03bfb5c5d693d0-brent_9_0.cnf

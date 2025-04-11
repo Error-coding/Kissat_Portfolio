@@ -1,0 +1,356 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/096e485489025895cdc59887baafa08b-test_v7_r17_vr5_c1_s25451.smt2-cvc4.cnf.xz', '/nfs/share/instances/gbd/cnf/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf.xz', '/nfs/share/instances/gbd/cnf/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf.xz', '/nfs/share/instances/gbd/cnf/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf.xz', '/nfs/share/instances/gbd/cnf/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf.xz', '/nfs/share/instances/gbd/cnf/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf.xz', '/nfs/share/instances/gbd/cnf/543e67dd5abc272c37775b1b742a1d9a-qwh.60.1728.shuffled-as.sat03-1659.cnf.xz', '/nfs/share/instances/gbd/cnf/70ef2b6bdc4101a0e35cf3d165571fe3-qwh.50.1250.shuffled-as.sat03-1655.cnf.xz', '/nfs/share/instances/gbd/cnf/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf.xz', '/nfs/share/instances/gbd/cnf/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf.xz', '/nfs/share/instances/gbd/cnf/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf.xz', '/nfs/share/instances/gbd/cnf/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 12 instances
+Worst case runtime for this iteration is 60000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnffinished after 279.5037274360657 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnffinished after 2.738157272338867 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnffinished after 434.04744386672974 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnffinished after 254.23831462860107 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnffinished after 2313.559518098831 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnffinished after 1811.3954243659973 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/543e67dd5abc272c37775b1b742a1d9a-qwh.60.1728.shuffled-as.sat03-1659.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnffinished after 1003.4765179157257 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ef2b6bdc4101a0e35cf3d165571fe3-qwh.50.1250.shuffled-as.sat03-1655.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096e485489025895cdc59887baafa08b-test_v7_r17_vr5_c1_s25451.smt2-cvc4.cnf
+Timeout
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 12 instances
+Worst case runtime for this iteration is 60000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnffinished after 1.8809947967529297 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/543e67dd5abc272c37775b1b742a1d9a-qwh.60.1728.shuffled-as.sat03-1659.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ef2b6bdc4101a0e35cf3d165571fe3-qwh.50.1250.shuffled-as.sat03-1655.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096e485489025895cdc59887baafa08b-test_v7_r17_vr5_c1_s25451.smt2-cvc4.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 891068,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 911,
+  'reducelow': 134,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 1,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 28,
+  'tier1relative': 270,
+  'tier2': 987,
+  'tier2relative': 455,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 12 instances
+Worst case runtime for this iteration is 60000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnffinished after 2.025161027908325 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/543e67dd5abc272c37775b1b742a1d9a-qwh.60.1728.shuffled-as.sat03-1659.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ef2b6bdc4101a0e35cf3d165571fe3-qwh.50.1250.shuffled-as.sat03-1655.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096e485489025895cdc59887baafa08b-test_v7_r17_vr5_c1_s25451.smt2-cvc4.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 373435,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 388,
+  'reducelow': 873,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 0,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 34,
+  'tier1relative': 10,
+  'tier2': 712,
+  'tier2relative': 828,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 12 instances
+Worst case runtime for this iteration is 60000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnffinished after 1.7425410747528076 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/543e67dd5abc272c37775b1b742a1d9a-qwh.60.1728.shuffled-as.sat03-1659.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/0e5ffe8651c6d9c3cccc3f6cb72be39a-g2-test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/70ef2b6bdc4101a0e35cf3d165571fe3-qwh.50.1250.shuffled-as.sat03-1655.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/096e485489025895cdc59887baafa08b-test_v7_r17_vr5_c1_s25451.smt2-cvc4.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 0,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 61895,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 784,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 2,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 47,
+  'tier1relative': 955,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 12 instances
+Worst case runtime for this iteration is 60000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3b59c5d9b6729f39c8483446701f4ed0-g2-T93.2.1.cnffinished after 359.20806336402893 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28e45a3e488ddac73b6116cc6f3e67e0-g2-T99.2.0.cnffinished after 1.90556001663208 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a931fb0e1490883ee7719eab96ed558a-T87.2.0.cnffinished after 266.7226188182831 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/88d151d4e3c6ba9bd78454de141cd108-T105.2.0.cnffinished after 264.12356996536255 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8cf6b81061285343c4f33c51afdb3fbb-minxor128.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ad69e0a0880cd377e26260f7e4bc6d51-g2-T49.2.0.cnffinished after 845.4577260017395 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4106867bc76b8794330a205cf8a303ad-bvsub_19952.smt2.cnffinished after 1543.3313899040222 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1165e12b6addad01b491c4616306186c-mulhs016-sc2009.cnf

@@ -1,0 +1,997 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf.xz', '/nfs/share/instances/gbd/cnf/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf.xz', '/nfs/share/instances/gbd/cnf/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf.xz', '/nfs/share/instances/gbd/cnf/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf.xz', '/nfs/share/instances/gbd/cnf/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf.xz', '/nfs/share/instances/gbd/cnf/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf.xz', '/nfs/share/instances/gbd/cnf/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf.xz', '/nfs/share/instances/gbd/cnf/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf.xz', '/nfs/share/instances/gbd/cnf/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf.xz', '/nfs/share/instances/gbd/cnf/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf.xz', '/nfs/share/instances/gbd/cnf/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf.xz', '/nfs/share/instances/gbd/cnf/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf.xz', '/nfs/share/instances/gbd/cnf/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf.xz', '/nfs/share/instances/gbd/cnf/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf.xz', '/nfs/share/instances/gbd/cnf/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf.xz', '/nfs/share/instances/gbd/cnf/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf.xz', '/nfs/share/instances/gbd/cnf/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf.xz', '/nfs/share/instances/gbd/cnf/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf.xz', '/nfs/share/instances/gbd/cnf/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf.xz', '/nfs/share/instances/gbd/cnf/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 144.86855363845825 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 119.52582216262817 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 106.60812497138977 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 372.3825614452362 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 522.3940629959106 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 221.7629644870758 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 649.544056892395 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 337.83365750312805 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 745.0661752223969 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 319.7774546146393 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 399.25027084350586 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 873.5329432487488 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 149.18159580230713 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 698.2551784515381 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 145.67676854133606 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 454.75032234191895 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 1261.4970772266388 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 281.70492815971375 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 426.79733896255493 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 698.1270310878754 seconds
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 114.44350695610046 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 132.35792899131775 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 299.3485405445099 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 252.20235013961792 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 483.8870050907135 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 190.26347255706787 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 404.87427139282227 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 373.3553817272186 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 449.4782919883728 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 141.95896649360657 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 300.81537795066833 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 387.57800912857056 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 118.853515625 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 180.28114008903503 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 258.70236587524414 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 323.2765064239502 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 285.31052470207214 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 253.95534324645996 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 215.95424962043762 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 257.64866304397583 seconds
+[INFO][abstract_intensifier.py:595] Added config cf0a0e and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 710467,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 21,
+  'reducelow': 502,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 48,
+  'tier1relative': 584,
+  'tier2': 515,
+  'tier2relative': 428,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 72.45875191688538 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 187.7764413356781 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 128.05092453956604 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 352.80195569992065 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 655.2997901439667 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 239.08897495269775 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 397.95590019226074 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 489.7486138343811 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 755.9682528972626 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 270.99376940727234 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 441.75276732444763 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 651.7456612586975 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 178.73736190795898 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 426.9801790714264 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 187.0394880771637 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 460.3099434375763 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 193.02266383171082 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 466.16675066947937 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 357.2370524406433 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 170.12010669708252 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 607359,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 17,
+  'reducelow': 39,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 2,
+  'tier1': 88,
+  'tier1relative': 394,
+  'tier2': 505,
+  'tier2relative': 707,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 104.49255561828613 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 172.31635546684265 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 165.0252628326416 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 464.79994893074036 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 1273.345683336258 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 346.5834047794342 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 548.8404316902161 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 701.2314958572388 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 625.404461145401 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 277.0905222892761 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 393.41255259513855 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 774.6280591487885 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 132.7759644985199 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 445.30744194984436 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 178.07524585723877 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 781.717378616333 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 302.51576232910156 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 804.6918642520905 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 496.6937725543976 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 147.719651222229 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 894425,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 461,
+  'reducelow': 49,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 60,
+  'tier1relative': 630,
+  'tier2': 919,
+  'tier2relative': 509,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 160126,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 127,
+  'reducelow': 812,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 49,
+  'tier1relative': 377,
+  'tier2': 266,
+  'tier2relative': 394,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 125.97885799407959 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 195.03080582618713 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 200.81495642662048 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 606.4101939201355 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 2272.1143052577972 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 705.6682102680206 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 428.66043424606323 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 632.0587921142578 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 2913.0565841197968 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 889.228949546814 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 617.4392957687378 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 1999.9868018627167 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 250.42518210411072 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 603.4268803596497 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 583.6868946552277 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 1411.7724611759186 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 285.29873538017273 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 1883.6827421188354 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 517.7393598556519 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 293.4298484325409 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 61895,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 765,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 43,
+  'tier1relative': 955,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 117.24407744407654 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 158.8197922706604 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 151.93438720703125 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 460.05906319618225 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 467.7715632915497 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 222.22299337387085 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 462.6396770477295 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 522.0908260345459 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 764.8091359138489 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 300.90743112564087 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 563.5376169681549 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 765.0113790035248 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 279.517644405365 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 314.96196699142456 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 199.1029245853424 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 505.31877970695496 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 245.85911893844604 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 383.35209035873413 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 354.3912637233734 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 188.83600163459778 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 119198,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 913,
+  'reducelow': 699,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 470,
+  'tier2': 334,
+  'tier2relative': 434,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 58.794538259506226 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 113.90378880500793 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 104.37443423271179 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 312.4858341217041 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 432.28385305404663 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 146.2969627380371 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 210.81036567687988 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 294.39123702049255 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 326.18465304374695 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 247.60299634933472 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 416.1980664730072 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 613.9185612201691 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 152.65499711036682 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 342.59388852119446 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 110.7119197845459 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 880.3297355175018 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 165.99621725082397 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 221.52576613426208 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 230.83459639549255 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 104.82829999923706 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 438789,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 51,
+  'reducelow': 47,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 0,
+  'tier1': 5,
+  'tier1relative': 31,
+  'tier2': 8,
+  'tier2relative': 706,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 103.936838388443 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnffinished after 206.67361903190613 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 303.086953163147 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnffinished after 941.0388252735138 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnffinished after 963.6733813285828 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnffinished after 480.366336107254 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnffinished after 589.3412165641785 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnffinished after 1004.3225433826447 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnffinished after 871.9232311248779 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnffinished after 420.0918598175049 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnffinished after 588.7166895866394 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnffinished after 1058.3509964942932 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnffinished after 230.62801599502563 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/e5a72ac8f4880702a4deacc7854318e8-hash_table_find_safety_size_19.cnffinished after 327.80670619010925 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6dca14e1af1795565d1e502ddc7d376b-hash_table_find_safety_size_15.cnffinished after 320.50981283187866 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/45faf223af97fe9177daa3ad4002cf2f-hash_table_find_safety_size_25.cnffinished after 668.5929260253906 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8252d67358381873e07bb637ad177b83-hash_table_find_safety_size_16.cnffinished after 447.9595913887024 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/29505dfcf090c4cfdfb59268160be81d-hash_table_find_safety_size_24.cnffinished after 1201.9312443733215 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9d081cbb33e6051be2512f2a2269d65-hash_table_find_safety_size_20.cnffinished after 434.2979578971863 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/08455b2e1e6fda910989f0481a20f1c3-hash_table_find_safety_size_13.cnffinished after 233.89563155174255 seconds
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 349118,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 0,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/65b1e2253626af4a72b954f8186a5880-hash_table_find_safety_size_10.cnffinished after 2186.7165203094482 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/685d37e93ba26197925353e58026ae10-hash_table_find_safety_size_12.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnf
+Solved
+Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c40838cb3ed9babe51dc41185e70a3dd-hash_table_find_safety_size_11.cnffinished after 2555.954330921173 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6e31e88a5dadaa3876eb5ff4293134c2-hash_table_find_safety_size_21.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6549f23728c52d5319f30371ff709622-hash_table_find_safety_size_27.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9e7f2b92c6e46d03ddcafd798aa80cb6-hash_table_find_safety_size_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/5a72cb588bcda7b1b54a1eac6b19ab2e-hash_table_find_safety_size_23.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a292411f3f563a47c05a78f8295163dc-hash_table_find_safety_size_26.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bb8042839130ce5597c358c1955706ff-hash_table_find_safety_size_30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/bc7dc7a83b442a2bf4cf8cae3f0e0faa-hash_table_find_safety_size_18.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/67a5b7ccde980b37576b993c79e176b0-hash_table_find_safety_size_22.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/15a2ec07aaca45d454a2fbfc0624e75e-hash_table_find_safety_size_29.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/28857e681fc6a9077d5a7d0e9c7a19ad-hash_table_find_safety_size_14.cnf

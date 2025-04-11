@@ -1,0 +1,680 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf.xz', '/nfs/share/instances/gbd/cnf/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf.xz', '/nfs/share/instances/gbd/cnf/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+[INFO][abstract_intensifier.py:595] Added config cf0a0e and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 710467,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 21,
+  'reducelow': 502,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 48,
+  'tier1relative': 584,
+  'tier2': 515,
+  'tier2relative': 428,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+[INFO][abstract_intensifier.py:595] Added config 01564a and rejected config cf0a0e as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 607359,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 17,
+  'reducelow': 39,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 2,
+  'tier1': 88,
+  'tier1relative': 394,
+  'tier2': 505,
+  'tier2relative': 707,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 894425,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 461,
+  'reducelow': 49,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 60,
+  'tier1relative': 630,
+  'tier2': 919,
+  'tier2relative': 509,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 160126,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 127,
+  'reducelow': 812,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 49,
+  'tier1relative': 377,
+  'tier2': 266,
+  'tier2relative': 394,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 61895,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 765,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 43,
+  'tier1relative': 955,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/04ded94454830d4ea960327e8b91f5a3-mdp-28-14-sat.cnf
+Solved
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 119198,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 913,
+  'reducelow': 699,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 470,
+  'tier2': 334,
+  'tier2relative': 434,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/3184e52e950ac39095a801c418f68d50-mdp-28-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/425c81fc3af7f5124b6282583d80df11-mdp-32-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d1940d3d830eb16a7d2270ca4af4acba-mdp-28-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7db30d12cb06f0dc2f30abff80d96d6a-two-trees-1023v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/23daec2c71ce3c1e346e6042f3dc42eb-mdp-32-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/9a06700729bf3426beb8a62040f92960-mdp-36-12-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1eea3d913d346b900252d77fc0cb25c8-par32-4.shuffled.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a5dc6226e4c0bebb06926efe55640995-mdp-36-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ab3438b504b296fcee78ec9e71969863-mdp-36-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/37a11ae189df2834a3f294736f34608f-mdp-28-16-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1548977b4e27032fe07cda357782cd6a-mdp-28-14-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16c5482d8e658b54e20d59cfd4b1d588-two-trees-511v.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/db15a85651e0d941a11bf8640625edd8-mdp-32-11-sat.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/4f2d6659b5c9bf594ea12e3e1a85799f-mdp-32-11-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1e74212168124b696531fed471b480b1-mdp-32-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8ffd718f763ed7a3f691cf46e57f8d98-mdp-32-10-sat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/16ca57f2cdffd5b0260fc771017e1f04-mdp-36-10-unsat.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a9cb77454c6cfdf4092fb304d3aae8b7-mdp-32-16-sat.cnf

@@ -1,0 +1,733 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/03e9d1abe418a1727bbf2ead77d69d02-php15-mixed-15percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/112b0ac22b2a567cd3badfed3a5497fd-mchess16-mixed-35percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/189e5991b041a89700513106988e720d-rphp_p20_r20.cnf.xz', '/nfs/share/instances/gbd/cnf/23c4e178c94c0dff82ea6c87abed7ecc-rphp_p60_r60.cnf.xz', '/nfs/share/instances/gbd/cnf/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf.xz', '/nfs/share/instances/gbd/cnf/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf.xz', '/nfs/share/instances/gbd/cnf/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/751afd7ddf8f242ed7bd93517ba82149-mchess20-mixed-45percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/8704094951693f99fd21403a039c8131-mchess_16.cnf.xz', '/nfs/share/instances/gbd/cnf/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/8d458780fb74c28c01a5fe89990ad521-mchess16-mixed-45percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/d17aa530bbd09452b0f32daf4ab9c8f0-tph8.cnf.xz', '/nfs/share/instances/gbd/cnf/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/eaf2f0803dd2045f1b189ee834ef0c8f-rphp_p8_r250.cnf.xz', '/nfs/share/instances/gbd/cnf/ec84eecb124c63d4757e083dd0e5a9ff-mchess_15.cnf.xz', '/nfs/share/instances/gbd/cnf/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf.xz', '/nfs/share/instances/gbd/cnf/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf.xz', '/nfs/share/instances/gbd/cnf/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf.xz']
+Shuffling instances with seed 31
+Setting up config
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 390 to 2 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 2 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+---Testing configuration---
+Configuration(values={
+  'backbone': 1,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 0,
+  'emafast': 959976,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 0,
+  'jumpreasons': 1,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 0,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 579,
+  'reducelow': 683,
+  'reluctant': 1,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 1,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 69,
+  'tier1relative': 946,
+  'tier2': 646,
+  'tier2relative': 105,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+[INFO][abstract_intensifier.py:516] Added config 36bc04 as new incumbent because there are no incumbents yet.
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 349118,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 360,
+  'reducelow': 283,
+  'reluctant': 0,
+  'reorder': 1,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 445,
+  'tier2': 133,
+  'tier2relative': 505,
+  'transitive': 0,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+[INFO][abstract_intensifier.py:595] Added config cf0a0e and rejected config 36bc04 as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 710467,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 0,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 21,
+  'reducelow': 502,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 48,
+  'tier1relative': 584,
+  'tier2': 515,
+  'tier2relative': 428,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+[INFO][abstract_intensifier.py:595] Added config 01564a and rejected config cf0a0e as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 607359,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 17,
+  'reducelow': 39,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 1,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 2,
+  'tier1': 88,
+  'tier1relative': 394,
+  'tier2': 505,
+  'tier2relative': 707,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+[INFO][abstract_intensifier.py:595] Added config 19f505 and rejected config 01564a as incumbent because it is not better than the incumbents on 1 instances:
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 0,
+  'eliminate': 1,
+  'emafast': 894425,
+  'extract': 0,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 0,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 0,
+  'reducehigh': 461,
+  'reducelow': 49,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 60,
+  'tier1relative': 630,
+  'tier2': 919,
+  'tier2relative': 509,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 0,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 3,
+  'eliminate': 1,
+  'emafast': 160126,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 0,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 127,
+  'reducelow': 812,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 1,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 2,
+  'tier1': 49,
+  'tier1relative': 377,
+  'tier2': 266,
+  'tier2relative': 394,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 1,
+  'eliminate': 1,
+  'emafast': 61895,
+  'extract': 1,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 0,
+  'minimize': 0,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 1,
+  'reducehigh': 765,
+  'reducelow': 378,
+  'reluctant': 1,
+  'reorder': 0,
+  'rephase': 1,
+  'restart': 1,
+  'shrink': 3,
+  'stable': 2,
+  'substitute': 1,
+  'sweep': 1,
+  'target': 1,
+  'tier1': 43,
+  'tier1relative': 955,
+  'tier2': 462,
+  'tier2relative': 101,
+  'transitive': 1,
+  'vivify': 0,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 0,
+  'congruence': 1,
+  'eagersubsume': 4,
+  'eliminate': 0,
+  'emafast': 119198,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 1,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 1,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 0,
+  'randec': 1,
+  'reducehigh': 913,
+  'reducelow': 699,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 1,
+  'sweep': 0,
+  'target': 1,
+  'tier1': 14,
+  'tier1relative': 470,
+  'tier2': 334,
+  'tier2relative': 434,
+  'transitive': 0,
+  'vivify': 1,
+  'warmup': 0,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/87ec32f70c5e3a279e636f7f62e70a19-mchess22-mixed-45percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d7f381cd99ca40ba3324c8cc03a54269-mchess16-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/578b5e6a2f0b295168cb6c5420810a72-php18-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fe8b1ef742724947620a419d0180a640-mchess18-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a6d7268b35eec18656a85ad91b0413e9-php17-mixed-35percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/54ab5a53d2fdfcda16ec74768b29f901-rphp_p30_r30.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/b3840e295097a13e6697fff6be813eeb-php16-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1156429862d3c03160406d6d1a786f11-rphp_p8_r170.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/8704094951693f99fd21403a039c8131-mchess_16.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/644fd765d26bd4a380922ccd0f594c58-mchess18-mixed-25percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/ff867fd35aa52058382a8b0c21cd1f38-mchess20-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6aacae96461cb65176942b6dc88ea470-mchess20-mixed-25percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/964162c1faee2c1e3a4dfa4f9c75c34f-php18-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/cd86fbfd8b7e0d66ec5fe8fe85c014d3-mchess22-mixed-35percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/41457ee03686b32962c12445524f62a9-mchess18-mixed-45percent-blocked.cnf
+Solved
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/99d134de6323a845a2828596a48bbb1d-php17-mixed-15percent-blocked.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fb5d0254bc4b8d258eb84ea1dbcdda13-mchess22-mixed-25percent-blocked.cnf
+Timeout
+---Testing configuration---
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 1,
+  'congruence': 0,
+  'eagersubsume': 1,
+  'eliminate': 0,
+  'emafast': 438789,
+  'extract': 1,
+  'factor': 1,
+  'fastel': 1,
+  'forward': 1,
+  'jumpreasons': 0,
+  'lucky': 1,
+  'minimize': 1,
+  'otfs': 0,
+  'phase': 1,
+  'phasesaving': 0,
+  'preprocess': 0,
+  'probe': 1,
+  'promote': 1,
+  'randec': 0,
+  'reducehigh': 51,
+  'reducelow': 47,
+  'reluctant': 0,
+  'reorder': 2,
+  'rephase': 0,
+  'restart': 0,
+  'shrink': 3,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 1,
+  'target': 0,
+  'tier1': 5,
+  'tier1relative': 31,
+  'tier2': 8,
+  'tier2relative': 706,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 1,
+})
+On 20 instances
+Worst case runtime for this iteration is 100000 seconds
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2dd4b14a8a820e7baa073554ae2c6cb0-rphp_p8_r160.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/fa5c6d6736a42650656c5bc018413254-bphp_p23_h22.sanitized.cnf
+Timeout
+Running configuration on file /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2c3c28f6d939d157e909c57a265fc908-mchess_17.cnf

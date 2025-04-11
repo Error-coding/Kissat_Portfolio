@@ -1,0 +1,1928 @@
+Getting instances
+['/nfs/share/instances/gbd/cnf/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf.xz', '/nfs/share/instances/gbd/cnf/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz', '/nfs/share/instances/gbd/cnf/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf.xz', '/nfs/share/instances/gbd/cnf/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf.xz', '/nfs/share/instances/gbd/cnf/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf.xz', '/nfs/share/instances/gbd/cnf/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf.xz', '/nfs/share/instances/gbd/cnf/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf.xz']
+Starting smac
+[INFO][abstract_initial_design.py:95] Reducing the number of initial configurations from 260 to 12 (max_ratio == 0.25).
+[INFO][abstract_initial_design.py:147] Using 12 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 13.568626880645752 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][abstract_intensifier.py:516] Added config 23ffcf as new incumbent because there are no incumbents yet.
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 59.747735261917114 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnfwas solved after 75.94191217422485 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 239.9510519504547 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][abstract_intensifier.py:595] Added config e6b292 and rejected config 23ffcf as incumbent because it is not better than the incumbents on 1 instances:
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 44.01052236557007 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 119.53835463523865 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 748.6857042312622 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 62.007301568984985 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 106.98752331733704 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 176.78655672073364 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1468.629436969757 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1754.1262583732605 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][abstract_intensifier.py:595] Added config 6bace3 and rejected config e6b292 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 104.0344545841217 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 3.713871717453003 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 173.41961860656738 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnfwas solved after 384.6308903694153 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 1736.0008172988892 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 89.65088963508606 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 228.86979222297668 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnfwas solved after 363.3761053085327 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 80.12778377532959 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 219.0119390487671 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 112.93888545036316 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 137.09109210968018 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 690.4196565151215 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 142.54235124588013 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1335.7133395671844 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 84.9713671207428 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 185.1689465045929 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1756.7864327430725 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 150.73055911064148 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 164.58669090270996 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1416.5112805366516 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1656.7393209934235 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][abstract_intensifier.py:595] Added config 933074 and rejected config 6bace3 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 183.518887758255 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 345.090701341629 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 497.5315330028534 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1105.590675830841 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1128.2411675453186 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1393.8638846874237 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1656.2330992221832 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][abstract_intensifier.py:595] Added config 1f37d2 and rejected config 933074 as incumbent because it is not better than the incumbents on 1 instances:
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 163.1322841644287 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1795.5279619693756 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 182.79160380363464 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 450.13143610954285 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 887.9780476093292 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1793.0574584007263 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 302.53389859199524 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 707.3475654125214 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 860.732223033905 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 41.90710926055908 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 631.6982018947601 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 798.7501525878906 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1198.1837799549103 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 202.8415961265564 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 526.9691889286041 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 594.5493745803833 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 1137.7118604183197 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 594.7580239772797 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 256.5140836238861 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 748.4301788806915 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 783.007994890213 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1383.4600536823273 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 131.7824592590332 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 662.8502516746521 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1297.1066126823425 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 1740.2177889347076 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 1321.6357247829437 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 772.3927822113037 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 927.7687237262726 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1116.6654887199402 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1230.543011188507 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 665.3469197750092 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 724.4817395210266 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1118.9632687568665 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1546.0328767299652 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 1557.778110742569 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 163.10551357269287 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 296.7592816352844 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 875.2126371860504 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 462.98502230644226 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 304.3332121372223 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1027.1573195457458 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 298.2900171279907 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 687.4983458518982 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 914.6383004188538 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 142.98889017105103 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 574.7427484989166 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 732.5662021636963 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1293.1052114963531 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1475.0988638401031 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 25.220262050628662 seconds
+Result added to total
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 110.45977735519409 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1155.759136915207 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1378.701184272766 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1467.8929269313812 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 400.27003717422485 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 423.4009699821472 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 466.0158553123474 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1060.5604169368744 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 109.70954990386963 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 1198.0380563735962 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1370.8724427223206 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1553.6438581943512 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 447.74679946899414 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 1031.3890976905823 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 1051.4232578277588 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+Result added to total
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 167.13116908073425 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 424.5258309841156 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 451.64947175979614 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 1093.3088285923004 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1141.4000179767609 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1428.9344217777252 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 183.01792240142822 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 489.93308901786804 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 809.3526201248169 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 880.5051326751709 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1428.2125663757324 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 275.6941587924957 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 520.5207476615906 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 711.8534064292908 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1054.0499866008759 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1429.5482988357544 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 276.50382828712463 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 377.00243163108826 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 410.5635495185852 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 932.7463703155518 seconds
+Result added to total
+Started kissat
+Process exited with expected code 10, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnfwas solved after 1426.2675020694733 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+Number args:8
+Starting pool with 12 threads and 12 instances
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/c76f3c6c2e2eae85fc5f3d499f3db88d-mp1-blockpuzzle_5x10_s7_free4.cnfwas solved after 157.91951894760132 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/6f0e236c999de0a5e3c46fd3463b1d0d-rook-56-1-1.cnfwas solved after 351.49644207954407 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/d60f56735dc8e89d7d91a01f4340df0c-baseballcover13with25_and3positions.cnfwas solved after 450.9774992465973 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/2115182958f6cfb5a172a24f989b86dd-rook-42-0-1.cnfwas solved after 751.1377441883087 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnfwas solved after 1466.4317922592163 seconds
+Result added to total
+Started kissat
+Process exited with expected code 20, no error: 
+33: Solved
+SOLVED: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/a7a9ca7e06b6b1e979950ea96183d07d-rook-47-0-1.cnfwas solved after 1502.1471784114838 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+Started kissat
+33: Timeout
+TIMEOUT: Instance /nfs/home/rzipperer/git/Kissat_hyperparamoptimization/instances/train/7083b70c1976162e2693d7a493717ffd-battleship-14-26-sat.cnf has reached timeout, punishment 10000 seconds
+Result added to total
+8
+[INFO][smbo.py:320] Finished 50 trials.
+[INFO][smbo.py:328] Configuration budget is exhausted:
+[INFO][smbo.py:329] --- Remaining wallclock time: inf
+[INFO][smbo.py:330] --- Remaining cpu time: inf
+[INFO][smbo.py:331] --- Remaining trials: 0
+Configuration(values={
+  'backbone': 2,
+  'bump': 1,
+  'chrono': 1,
+  'congruence': 0,
+  'eliminate': 0,
+  'extract': 0,
+  'factor': 0,
+  'fastel': 1,
+  'forward': 0,
+  'lucky': 0,
+  'phase': 1,
+  'phasesaving': 1,
+  'preprocess': 1,
+  'probe': 1,
+  'randec': 0,
+  'reluctant': 0,
+  'reorder': 0,
+  'rephase': 0,
+  'restart': 1,
+  'stable': 0,
+  'substitute': 0,
+  'sweep': 0,
+  'target': 0,
+  'transitive': 1,
+  'vivify': 1,
+  'warmup': 0,
+})
