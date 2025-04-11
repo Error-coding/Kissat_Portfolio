@@ -1,0 +1,223 @@
+{
+  "stats": {
+    "submitted": 10,
+    "finished": 10,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153153.7795672,
+      1731153153.783249,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153153.7886071,
+      1731153153.7909195,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8385973,
+      1731153154.840646,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8446388,
+      1731153154.84653,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.850593,
+      1731153154.8527958,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8586416,
+      1731153154.8606696,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8654294,
+      1731153154.8675075,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8725016,
+      1731153154.8749983,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8832712,
+      1731153154.8853652,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1731153154.8909438,
+      1731153154.893704,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 186, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/anaconda3/envs/SMAC/lib/python3.12/site-packages/smac/runner/target_function_runner.py\", line 259, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/raphael-zipperer/Uni/BA/git/Kissat_hyperparamoptimization/scripts/smactest.py\", line 13, in train\n    for file in os.listdir(\"../instances/easy\")[:3]:\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '../instances/easy'\n",
+        "error": "FileNotFoundError(2, 'No such file or directory')"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "probeint": 268,
+      "restartint": 6206,
+      "target": 0
+    },
+    "2": {
+      "probeint": 534,
+      "restartint": 3064,
+      "target": 2
+    },
+    "3": {
+      "probeint": 502,
+      "restartint": 4236,
+      "target": 1
+    },
+    "4": {
+      "probeint": 709,
+      "restartint": 3284,
+      "target": 1
+    },
+    "5": {
+      "probeint": 816,
+      "restartint": 7383,
+      "target": 1
+    },
+    "6": {
+      "probeint": 494,
+      "restartint": 4244,
+      "target": 1
+    },
+    "7": {
+      "probeint": 184,
+      "restartint": 1876,
+      "target": 0
+    },
+    "8": {
+      "probeint": 970,
+      "restartint": 4225,
+      "target": 0
+    },
+    "9": {
+      "probeint": 341,
+      "restartint": 8025,
+      "target": 0
+    },
+    "10": {
+      "probeint": 343,
+      "restartint": 4819,
+      "target": 0
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Acquisition Function Maximizer: Local Search",
+    "4": "Acquisition Function Maximizer: Local Search",
+    "5": "Acquisition Function Maximizer: Local Search",
+    "6": "Acquisition Function Maximizer: Local Search",
+    "7": "Acquisition Function Maximizer: Local Search",
+    "8": "Acquisition Function Maximizer: Local Search",
+    "9": "Acquisition Function Maximizer: Local Search",
+    "10": "Acquisition Function Maximizer: Local Search"
+  }
+}

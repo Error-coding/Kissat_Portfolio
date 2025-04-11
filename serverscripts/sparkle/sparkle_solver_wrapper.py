@@ -1,0 +1,49 @@
+import sys
+import subprocess
+from pathlib import Path
+from sparkle.types import SolverStatus
+from sparkle.tools.solver_wrapper_parsing import parse_solver_wrapper_args, \
+    get_solver_call_params
+
+
+# Parse the arguments of the solver wrapper
+args_dict = parse_solver_wrapper_args(sys.argv[1:])
+
+# Extract certain args from the above dict for use further below
+solver_dir = Path(args_dict["solver_dir"])
+instance = Path(args_dict["instance"])
+
+# Construct the base solver call
+solver_name = "kissat"
+solver_exec = f"{solver_dir / solver_name}" if solver_dir != Path(".") else "./" + \
+    solver_name
+solver_cmd = [solver_exec, instance, "-n", "-q"]
+
+# Get further params for the solver call
+params = get_solver_call_params(args_dict)
+
+# Execute the solver call
+try:
+    solver_call = subprocess.run(solver_cmd + params,
+                                 capture_output=True)
+except Exception as ex:
+    print(f"Solver call failed with exception:\n{ex}")
+
+# Convert Solver output to dictionary for configurator target algorithm script
+output_str = solver_call.stdout.decode()
+
+status = SolverStatus.CRASHED
+for line in output_str.splitlines():
+    line = line.strip()
+    if (line == r's SATISFIABLE') or (line == r's UNSATISFIABLE'):
+        status = SolverStatus.SUCCESS
+        break
+    elif line == r's UNKNOWN':
+        status = SolverStatus.TIMEOUT
+        break
+
+outdir = {"status": status.value,
+          "quality": 0,
+          "solver_call": solver_cmd + params}
+
+print(outdir)
